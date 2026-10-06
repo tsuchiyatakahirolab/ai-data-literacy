@@ -1,0 +1,224 @@
+{
+  "slide_counts": [
+    [
+      "00_Course_Setup_v1.1.pptx",
+      17
+    ],
+    [
+      "Week01_AI_Landscape_v1.1.pptx",
+      14
+    ],
+    [
+      "Week02_Clear_Requests_v1.1.pptx",
+      14
+    ],
+    [
+      "Week03_GitHub_Workflow_v1.1.pptx",
+      21
+    ],
+    [
+      "Week04_Read_Documents_v1.1.pptx",
+      14
+    ],
+    [
+      "Week05_Rewrite_Translate_v1.1.pptx",
+      13
+    ],
+    [
+      "Week06_Create_Notice_v1.1.pptx",
+      13
+    ],
+    [
+      "Week07_Check_Sources_v1.1.pptx",
+      14
+    ],
+    [
+      "Week08_Errors_and_Bias_v1.1.pptx",
+      13
+    ],
+    [
+      "Week09_Read_Numbers_v1.1.pptx",
+      14
+    ],
+    [
+      "Week10_Read_Charts_v1.1.pptx",
+      14
+    ],
+    [
+      "Week11_AI_Data_Analysis_v1.1.pptx",
+      17
+    ],
+    [
+      "Week12_Learn_with_AI_v1.1.pptx",
+      13
+    ],
+    [
+      "Week13_Plan_and_Check_v1.1.pptx",
+      15
+    ],
+    [
+      "Week14_Final_Planning_v1.1.pptx",
+      12
+    ],
+    [
+      "Final_Project_v1.1.pptx",
+      12
+    ]
+  ],
+  "slides_total": 230,
+  "fonts": {
+    "Meiryo": 21817
+  },
+  "font_sizes_pt": {
+    "26.0": 248,
+    "42.0": 32,
+    "18.0": 562,
+    "34.0": 214,
+    "27.0": 269,
+    "24.0": 379,
+    "32.0": 123,
+    "28.0": 123,
+    "23.0": 155,
+    "25.0": 36,
+    "22.0": 273,
+    "20.0": 14,
+    "29.0": 1,
+    "36.0": 4,
+    "30.0": 4
+  },
+  "shape_out_of_bounds": [],
+  "missing_rendered_text": [
+    [
+      "Week03_GitHub_Workflow_v1.1.pptx",
+      5,
+      "week03 → README.md"
+    ],
+    [
+      "Week03_GitHub_Workflow_v1.1.pptx",
+      13,
+      "Add file → Upload files"
+    ],
+    [
+      "Week03_GitHub_Workflow_v1.1.pptx",
+      15,
+      "保存 → commit → push\n\ncommitだけでは、まだ\nパソコン内にある。"
+    ],
+    [
+      "Week03_GitHub_Workflow_v1.1.pptx",
+      16,
+      "File → Clone repositoryを開く。"
+    ],
+    [
+      "Week07_Check_Sources_v1.1.pptx",
+      5,
+      "① AIに調べ方を頼む"
+    ],
+    [
+      "Week08_Errors_and_Bias_v1.1.pptx",
+      5,
+      "② AIにも点検してもらう"
+    ],
+    [
+      "Week09_Read_Numbers_v1.1.pptx",
+      6,
+      "103 ÷ 126 × 100 ≈ 81.7％"
+    ],
+    [
+      "Week09_Read_Numbers_v1.1.pptx",
+      8,
+      "60％から75％へ。\n\n75−60＝15ポイント増。"
+    ],
+    [
+      "Week09_Read_Numbers_v1.1.pptx",
+      8,
+      "同じ60％から75％へ。\n\n（75−60）÷60＝25％増。"
+    ],
+    [
+      "Week10_Read_Charts_v1.1.pptx",
+      5,
+      "① AIにグラフを説明させる"
+    ],
+    [
+      "Week10_Read_Charts_v1.1.pptx",
+      6,
+      "3.5 − 3.1 = 0.4"
+    ],
+    [
+      "Week11_AI_Data_Analysis_v1.1.pptx",
+      5,
+      "① CSVを渡す"
+    ]
+  ],
+  "pdf_text_out_of_bounds": [],
+  "relative_links_checked": 194,
+  "broken_relative_links": [],
+  "notes_counts": [
+    [
+      "00_Course_Setup_v1.1.pptx",
+      17
+    ],
+    [
+      "Week01_AI_Landscape_v1.1.pptx",
+      14
+    ],
+    [
+      "Week02_Clear_Requests_v1.1.pptx",
+      14
+    ],
+    [
+      "Week03_GitHub_Workflow_v1.1.pptx",
+      21
+    ],
+    [
+      "Week04_Read_Documents_v1.1.pptx",
+      14
+    ],
+    [
+      "Week05_Rewrite_Translate_v1.1.pptx",
+      13
+    ],
+    [
+      "Week06_Create_Notice_v1.1.pptx",
+      13
+    ],
+    [
+      "Week07_Check_Sources_v1.1.pptx",
+      14
+    ],
+    [
+      "Week08_Errors_and_Bias_v1.1.pptx",
+      13
+    ],
+    [
+      "Week09_Read_Numbers_v1.1.pptx",
+      14
+    ],
+    [
+      "Week10_Read_Charts_v1.1.pptx",
+      14
+    ],
+    [
+      "Week11_AI_Data_Analysis_v1.1.pptx",
+      17
+    ],
+    [
+      "Week12_Learn_with_AI_v1.1.pptx",
+      13
+    ],
+    [
+      "Week13_Plan_and_Check_v1.1.pptx",
+      15
+    ],
+    [
+      "Week14_Final_Planning_v1.1.pptx",
+      12
+    ],
+    [
+      "Final_Project_v1.1.pptx",
+      12
+    ]
+  ],
+  "render_environment": "LibreOffice; Meiryo unavailable, fallback fonts used. Native PowerPoint/Meiryo verification not performed.",
+  "rendered_character_deficits": [],
+  "exact_string_match_note": "PDF extraction can place symbol glyph spans out of reading order. The recorded exact-string mismatches do not represent missing glyphs; the page-level normalized character multiset comparison found no deficits."
+}

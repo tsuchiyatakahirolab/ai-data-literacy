@@ -1,0 +1,116 @@
+{
+  "message-circle": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/message-circle.svg",
+    "upstream_blob_sha": "d269b8b0f3651b6ff136036da05efe9e02214ae1",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "file-text": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/file-text.svg",
+    "upstream_blob_sha": "67dc5b9d1a07a1b501ba87d62563b914c059096e",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "search": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/search.svg",
+    "upstream_blob_sha": "03e442a5440cff92c219fe3a3c1f2b0788d30701",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "image": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/image.svg",
+    "upstream_blob_sha": "3241134c018d44660a5af9453925118d7a95dae5",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "chart-column": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/chart-column.svg",
+    "upstream_blob_sha": "ef98cf9b608890ebf96f8220e5e1814bbf89e1c7",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "target": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/target.svg",
+    "upstream_blob_sha": "260624a5ee0f349737e6ec1c823996fcad8420f5",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "list-checks": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/list-checks.svg",
+    "upstream_blob_sha": "602734bab9f0c9938f0e99c209ac6e7bec695810",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "circle-check": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/circle-check.svg",
+    "upstream_blob_sha": "14e45c58c9ece47f2204e89d19d8463f485325a0",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "triangle-alert": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/triangle-alert.svg",
+    "upstream_blob_sha": "3232fb062dc26463279016cd7483677de9ef9bbd",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "upload": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/upload.svg",
+    "upstream_blob_sha": "ce355073f92b8947dd9e439c6ff67e6a13b837ae",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "folder": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/folder.svg",
+    "upstream_blob_sha": "ef69b345f200f1542ad9a2dfca7d41d036910f4b",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "git-commit-horizontal": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/git-commit-horizontal.svg",
+    "upstream_blob_sha": "058a7d1a8eab89d27997808099c38dc914fd1e69",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "git-branch": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/git-branch.svg",
+    "upstream_blob_sha": "06398f448481cb8276a9afa449b81ca13bae39d2",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "mouse-pointer-2": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/mouse-pointer-2.svg",
+    "upstream_blob_sha": "b881f79518d2ae5012aaa81792cb4dd075548771",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "keyboard": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/keyboard.svg",
+    "upstream_blob_sha": "254582887503f763af4e284f05bc858464ff664d",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "lock-keyhole": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/lock-keyhole.svg",
+    "upstream_blob_sha": "97fcbd189d5f5d855d26bb1698680367cf3d9391",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "languages": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/languages.svg",
+    "upstream_blob_sha": "c3c1486ee10dc0ec0c9a94f88171e62ca8dea9c8",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "book-open": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/book-open.svg",
+    "upstream_blob_sha": "9e0ace59b788e2b45fc35d9fbf68c2a80bd518bc",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  },
+  "table": {
+    "source": "https://github.com/lucide-icons/lucide/blob/main/icons/table.svg",
+    "upstream_blob_sha": "725f23cc6e60f9c9c99d14fde571df6cef893582",
+    "retrieved": "2026-09-17",
+    "modification": "Equivalent paths compacted; color applied at rendering."
+  }
+}

@@ -1,0 +1,6 @@
+# Keep temporary local files out of the repository
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
