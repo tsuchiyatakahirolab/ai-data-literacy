@@ -17,7 +17,7 @@
 
 初めての人は授業ページのGitHub登録案内を開き、大学メールで登録してメールの確認を終えます。すでにアカウントがある人は、そのアカウントを使い、大学メールを追加して確認します。公開プロフィールに大学メールや学籍番号を載せる必要はありません。
 
-右上のプロフィールからYour profileを開きます。URLがgithub.com/example-studentなら、usernameはexample-studentです。画面にある表示名やメールアドレスとは別なので、このusernameを後で初回登録に入力します。
+GitHubへログインした状態で、右上の丸いプロフィール画像を押します。開いたメニューの上部に表示されるアカウント名がusernameです。登録時のUsername欄で決めた名前を控えます。表示名やメールアドレスとは別なので、このusernameを初回登録に入力します。プロフィールURLがgithub.com/example-studentなら、usernameはexample-studentです。
 
 ## 3. 自分の非公開リポジトリを作る
 
