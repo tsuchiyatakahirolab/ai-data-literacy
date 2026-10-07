@@ -1,3 +1,5 @@
+<a href="https://tsuchiyatakahiro.com"><img src="assets/branding/personal-author-logo.png" width="180" alt="TSUCHIYA TAKAHIRO"></a>
+
 # AI and Data Literacy for University Students
 
 Independent readers can start with the [self-study guide](en/docs/self_study.md). No university account or course-form submission is required.

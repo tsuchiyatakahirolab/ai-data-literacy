@@ -1,3 +1,5 @@
+<a href="https://tsuchiyatakahiro.com"><img src="assets/branding/personal-author-logo.png" width="180" alt="TSUCHIYA TAKAHIRO"></a>
+
 # 大学生のためのAI・データリテラシー
 
 学外から来た方は、[独習の案内](docs/self_study.md)から始められます。大学アカウントや授業フォームへの登録は不要です。
