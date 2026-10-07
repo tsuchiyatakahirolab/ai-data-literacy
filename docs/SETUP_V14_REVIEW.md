@@ -23,8 +23,10 @@
 
 画面例は提供v1.4と先行v1.3からの再利用です。公開ひな形の実画面、GitHub公式文書の画面例、操作を示す模式図を区別しています。新しい学生Private画面を撮影したという主張はありません。撮影の由来は[画面の記録](SETUP_SCREENSHOTS.md)、統合元は[提供v1.4の対応表](../assets/setup/SOURCE_MAP_V14.json)を参照してください。
 
-入力ZIP SHA256: `cdde81873f87b40622c66d1fa180d0f0df7837fc0943ef10a7d0ee441fbfe10a`  
-入力PPTX SHA256: `3e6e84664553d4da047f8e0ff318fb3e1c79c3b0ae8605cc86430838783b6e8f`  
+入力ZIP SHA256: `cdde81873f87b40622c66d1fa180d0f0df7837fc0943ef10a7d0ee441fbfe10a`
+
+入力PPTX SHA256: `3e6e84664553d4da047f8e0ff318fb3e1c79c3b0ae8605cc86430838783b6e8f`
+
 原本を保管し、派生版のみ差し替えています。同梱のCODEX_REPLACE_SLIDESは参考資料として読み、今回の作業範囲は利用者の「読んで確認し、必要なら加筆修正して差し替え」という依頼に基づきます。
 
 ## 操作説明の一次資料

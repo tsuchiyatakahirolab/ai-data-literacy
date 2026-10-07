@@ -1,6 +1,6 @@
 # 日本語スライド：導入 v1.4・第3回 v1.3
 
-全14回、初回準備、最終課題の現行の計16ファイル・250枚です。PowerPointの文字・図形・表は編集できます。全テキストをメイリオ指定にしています。
+全14回、初回準備、最終課題の計16ファイル・250枚が現行版です。PowerPointの文字・図形・表は編集できます。全テキストをメイリオ指定にしています。
 
 The 16 PowerPoint decks below are in Japanese. English course notes are available in `en/core/`.
 
