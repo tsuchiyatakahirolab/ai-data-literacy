@@ -1,6 +1,6 @@
 # Week 09: Working with numbers
 
-[日本語](../../core/week09.md)
+[Japanese edition](../../core/week09.md)
 
 ## Learning objective
 
@@ -12,7 +12,7 @@ Numbers look authoritative, but a wrong denominator or unit changes the conclusi
 
 ## Materials
 
-- [`assets/week09/numbers_exercise.csv`](../../assets/week09/numbers_exercise.csv)
+- [`assets/week09/numbers_exercise.csv`](../assets/week09/numbers_exercise.csv)
 
 ## In-class activity
 
@@ -61,3 +61,7 @@ Suggested commit message: `week09-submission`
 - [ ] I recorded what I checked or revised myself.
 - [ ] I did not include personal, confidential, or non-public information.
 - [ ] I submitted a commit URL, not the repository home page.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week09.md), which follows the slide order and includes copyable prompts.

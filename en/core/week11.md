@@ -1,6 +1,6 @@
 # Week 11: First steps in AI-assisted data analysis
 
-[日本語](../../core/week11.md)
+[Japanese edition](../../core/week11.md)
 
 ## Learning objective
 
@@ -12,7 +12,7 @@ AI can assist with data analysis without manual coding, but a polished chart can
 
 ## Materials
 
-- [`assets/week11/ai_study_data.csv`](../../assets/week11/ai_study_data.csv)
+- [`assets/week11/ai_study_data.csv`](../assets/week11/ai_study_data.csv)
 
 ## In-class activity
 
@@ -61,3 +61,7 @@ Suggested commit message: `week11-submission`
 - [ ] I recorded what I checked or revised myself.
 - [ ] I did not include personal, confidential, or non-public information.
 - [ ] I submitted a commit URL, not the repository home page.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week11.md), which follows the slide order and includes copyable prompts.

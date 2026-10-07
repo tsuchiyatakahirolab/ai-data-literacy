@@ -1,6 +1,6 @@
 # Final Project: Produce an evidence-based artifact with AI
 
-[日本語](../../core/final_project.md)
+[Japanese edition](../../core/final_project.md)
 
 ## Objective
 
@@ -38,3 +38,7 @@ Choose one question and use AI to support research, document reading, data check
 - [ ] No personal or confidential information is included.
 - [ ] `final/README.md`, the evidence log, and the artifact are committed.
 - [ ] The final commit URL has been submitted.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/final_project.md), which follows the slide order and includes copyable prompts.

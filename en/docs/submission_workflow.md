@@ -1,22 +1,20 @@
-# Submission Workflow: Use Commit URLs, Not Chat Links
+# Submit a specific version with a commit URL
 
-This course does not normally require students to submit full AI chat histories or AI conversation share links. Sharing options differ across AI services, plans, and institutional accounts.
+Full AI conversations and conversation-sharing links are normally not required. Their availability varies by service, subscription, university settings, and attachments.
 
-Students save the artifact and a short AI-use record in their private GitHub repository. They then commit the work and submit the commit URL through the instructor's submission form. This identifies the exact version submitted and separates the submitted version from later revisions.
+Save your artifact and short AI-use record in your Private repository. Commit all required work, then submit the commit URL to your instructor's weekly or final-project form. This identifies the submitted version separately from later changes. Initial registration uses your repository URL instead.
 
-## Weekly steps
+## Every week
 
-1. Complete the weekly task.
-2. Write the artifact, AI-use record, checking notes, and remaining problems in `weekXX/README.md`.
-3. Add any needed files to the same `weekXX/` folder.
-4. Commit the changes.
-5. Open the commit on GitHub and copy the commit URL.
-6. Submit the commit URL through the course form.
+1. Complete the exercise.
+2. Fill in `weekXX/README.md`: your artifact, AI used, work delegated, and your own checking and revision.
+3. Put the required files in the same `weekXX/` folder.
+4. Save with Commit changes.
+5. Open the final commit after all required files have been saved and copy its URL.
+6. Submit that URL through the course form.
 
-## Correct URL
+The weekly URL has the form `https://github.com/username/repository/commit/abcdef123456...`. A repository or profile URL does not identify the submitted version. After a correction, submit the new commit URL; normally the latest submission is used under the course policy.
 
-```text
-Correct: https://github.com/username/repository/commit/abcdef123456...
-Insufficient: https://github.com/username/repository
-Insufficient: https://github.com/username
-```
+Browser commits are already saved on GitHub and require no separate push. With GitHub Desktop, save locally, inspect the changes, commit, select Push origin, and check the website. A commit page mainly shows differences; use Browse files to inspect all files at that commit. History alone does not prove authorship or correctness.
+
+Keep personal information, confidential materials, unrelated private conversations, and other students' submissions out of the repository. For a public portfolio, consult your instructor and prepare a separate set containing only publishable material.

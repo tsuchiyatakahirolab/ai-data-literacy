@@ -1,6 +1,6 @@
 # Week 01: Mapping the AI landscape
 
-[日本語](../../core/week01.md)
+[Japanese edition](../../core/week01.md)
 
 ## Learning objective
 
@@ -12,7 +12,7 @@ What can AI do besides answer questions? Try several capabilities and distinguis
 
 ## Materials
 
-- [`assets/week01/ai_try_10.md`](../../assets/week01/ai_try_10.md)
+- [`assets/week01/ai_try_10.md`](../assets/week01/ai_try_10.md)
 
 ## In-class activity
 
@@ -61,3 +61,7 @@ Suggested commit message: `week01-submission`
 - [ ] I recorded what I checked or revised myself.
 - [ ] I did not include personal, confidential, or non-public information.
 - [ ] I submitted a commit URL, not the repository home page.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week01.md), which follows the slide order and includes copyable prompts.

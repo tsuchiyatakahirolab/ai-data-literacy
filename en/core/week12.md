@@ -1,6 +1,6 @@
 # Week 12: Using AI as a study partner
 
-[日本語](../../core/week12.md)
+[Japanese edition](../../core/week12.md)
 
 ## Learning objective
 
@@ -12,7 +12,7 @@ AI can be more useful as a study partner than as an answer machine. Use it to re
 
 ## Materials
 
-- [`assets/week12/ai_tutor_case.md`](../../assets/week12/ai_tutor_case.md)
+- [`assets/week12/ai_tutor_case.md`](../assets/week12/ai_tutor_case.md)
 
 ## In-class activity
 
@@ -61,3 +61,7 @@ Suggested commit message: `week12-submission`
 - [ ] I recorded what I checked or revised myself.
 - [ ] I did not include personal, confidential, or non-public information.
 - [ ] I submitted a commit URL, not the repository home page.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week12.md), which follows the slide order and includes copyable prompts.

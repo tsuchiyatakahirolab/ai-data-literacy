@@ -24,7 +24,7 @@
 
 学生は[演習シート](handouts/week01.md)を横に開き、依頼文をコピーして作業できます。初回は[準備の案内](docs/first_class_setup.md)に従ってGitHubを設定します。ブラウザだけの手順を基本とし、授業の必須操作はすべてブラウザで行います。第13回の基本課題には、検索機能がなくても使える架空の施設・移動表を追加しました。
 
-英語版はREADME、14回の教材本文、最終課題、関連ガイドです。PowerPointは日本語です。
+[英語版のスライド・PDF・演習シート](en/README.md)も利用できます。英語版は全16本・250枚で、発表者ノート、サンプル資料、空の学生用ひな形も英語です。[英語教材一式ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials_EN.zip)からまとめてダウンロードできます。
 
 ## この授業で身につけること
 

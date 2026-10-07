@@ -1,6 +1,6 @@
 # Week 06: Creating a useful artifact with AI
 
-[日本語](../../core/week06.md)
+[Japanese edition](../../core/week06.md)
 
 ## Learning objective
 
@@ -12,7 +12,7 @@ The first AI draft is material, not the final product. Revise it for a real audi
 
 ## Materials
 
-- [`assets/week06/artifact_brief.md`](../../assets/week06/artifact_brief.md)
+- [`assets/week06/artifact_brief.md`](../assets/week06/artifact_brief.md)
 
 ## In-class activity
 
@@ -61,3 +61,7 @@ Suggested commit message: `week06-submission`
 - [ ] I recorded what I checked or revised myself.
 - [ ] I did not include personal, confidential, or non-public information.
 - [ ] I submitted a commit URL, not the repository home page.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week06.md), which follows the slide order and includes copyable prompts.

@@ -1,6 +1,6 @@
 # Week 08: Finding errors and bias in AI output
 
-[日本語](../../core/week08.md)
+[Japanese edition](../../core/week08.md)
 
 ## Learning objective
 
@@ -12,7 +12,7 @@ Fluent writing can still contain unsupported claims. Evaluate the relationship b
 
 ## Materials
 
-- [`assets/week08/ai_response_to_audit.md`](../../assets/week08/ai_response_to_audit.md)
+- [`assets/week08/ai_response_to_audit.md`](../assets/week08/ai_response_to_audit.md)
 
 ## In-class activity
 
@@ -61,3 +61,7 @@ Suggested commit message: `week08-submission`
 - [ ] I recorded what I checked or revised myself.
 - [ ] I did not include personal, confidential, or non-public information.
 - [ ] I submitted a commit URL, not the repository home page.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week08.md), which follows the slide order and includes copyable prompts.

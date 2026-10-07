@@ -1,6 +1,6 @@
 # Week 04: Reading images, PDFs, and tables with AI
 
-[日本語](../../core/week04.md)
+[Japanese edition](../../core/week04.md)
 
 ## Learning objective
 
@@ -12,7 +12,7 @@ AI can read documents, but it may add details that are not present. Compare its 
 
 ## Materials
 
-- [`assets/week04/sample_event_notice.pdf`](../../assets/week04/sample_event_notice.pdf)
+- [`assets/week04/sample_event_notice.pdf`](../assets/week04/sample_event_notice.pdf)
 
 ## In-class activity
 
@@ -61,3 +61,7 @@ Suggested commit message: `week04-submission`
 - [ ] I recorded what I checked or revised myself.
 - [ ] I did not include personal, confidential, or non-public information.
 - [ ] I submitted a commit URL, not the repository home page.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week04.md), which follows the slide order and includes copyable prompts.

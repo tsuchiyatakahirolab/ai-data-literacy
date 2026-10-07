@@ -4,7 +4,7 @@
 
 Independent readers can start with the [self-study guide](en/docs/self_study.md). No university account or course-form submission is required.
 
-[日本語 README](README.md)
+[Japanese README](README.md)
 
 This open course provides **14 hands-on classes plus a final project** for university students with little or no prior experience using generative AI, GitHub, or data analysis. It moves beyond the idea of AI as a chat box for answering questions. Students use AI to read documents, research the web, interpret images, check numbers and charts, analyze a small CSV dataset, create artifacts, and manage multi-step tasks.
 
@@ -15,7 +15,7 @@ The stable curriculum is separated from product-specific instructions. Core less
 
 ## Distribution PDFs and complete download
 
-[Slide-only PDFs for all 16 Japanese decks](slides/README.md), a [250-page combined PDF](slides/AI_Data_Literacy_All_Slides.pdf), and a [complete teaching ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials.zip) are available. The archive includes editable PPTX decks, PDFs, Japanese and English course notes, handouts, sample data, and a blank student template. The PDFs omit speaker notes and use rendered slide images; searchable and editable text remains in the PPTX.
+[English slides and slide-only PDFs](en/slides/README.md), [all 250 English slides in one PDF](en/slides/AI_Data_Literacy_All_Slides_EN.pdf), an [English teaching ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials_EN.zip), [Japanese slides and PDFs](slides/README.md), and a [complete bilingual teaching ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials.zip) are available. The English archive contains the English materials and shared setup images. The bilingual archive also includes the Japanese materials. Both provide editable PPTX decks, slide-only PDFs, course notes, hands-on sheets, sample data, and a blank student template. The PDFs omit speaker notes and use rendered slide images; searchable and editable text remains in the PPTX.
 
 ## Learning outcomes
 
@@ -59,9 +59,9 @@ Final project: [Complete an evidence-based artifact with AI assistance](en/core/
 
 ## Student workflow
 
-1. Set up GitHub using `docs/github_onboarding_student.md` or the English guide in `en/docs/`.
+1. Follow the [English setup guide](en/handouts/setup.md).
 2. Create a private repository from the instructor's template repository.
-3. Complete each weekly exercise in `core/weekXX.md` or `en/core/weekXX.md`.
+3. Complete each weekly exercise using `en/handouts/weekXX.md` and `en/core/weekXX.md`.
 4. Save artifacts and a short AI-use record in the student repository.
 5. Commit the work and submit the commit URL through the instructor's submission form.
 
@@ -69,13 +69,15 @@ The course does not normally require students to submit full chat histories or A
 
 ## For instructors
 
-- `docs/instructor_runbook.md`: course operation notes.
-- `docs/assessment_rubric.md`: assessment criteria.
-- `docs/ai_use_policy.md`: AI-use policy.
-- `docs/privacy_and_publication.md`: privacy and publication notes.
-- `docs/submission_workflow.md`: commit-URL-based submission model.
-- `student-template/`: template repository for student submissions.
-- `slides/`: Japanese PowerPoint decks for the course.
+- [en/docs/instructor_runbook.md](en/docs/instructor_runbook.md): course operation notes.
+- [en/docs/assessment_rubric.md](en/docs/assessment_rubric.md): assessment criteria.
+- [en/docs/ai_use_policy.md](en/docs/ai_use_policy.md): AI-use policy.
+- [en/docs/privacy_and_publication.md](en/docs/privacy_and_publication.md): privacy and publication notes.
+- [en/docs/submission_workflow.md](en/docs/submission_workflow.md): commit-URL-based submission model.
+- `en/student-template/`: English blank template for student submissions.
+- `slides/`: Japanese PowerPoint decks and PDFs.
+- `en/slides/`: English PowerPoint decks with English teaching notes, and slide-only PDFs.
+- `en/handouts/`, `en/assets/`, `en/student-template/`: English hands-on sheets, exercise materials, and a blank student template.
 
 The instructor provides submission destinations and checking methods through the forms or LMS available at their university. Student records and course-only links belong in the course management area.
 
@@ -89,7 +91,11 @@ docs/             Policies, rubrics, onboarding, and instructor guidance
 tool-guides/      Tool-specific notes that can be updated each year
 current/          Current-year notes on AI services and student benefits
 student-template/ Template repository for student submissions
-slides/           Japanese PowerPoint decks
+slides/           Japanese PowerPoint decks and PDFs
+en/slides/        English PowerPoint decks and PDFs
+en/handouts/      English step-by-step activities
+en/assets/        English fictional practice materials
+en/student-template/ English blank student template
 ```
 
 ## License and citation
@@ -103,17 +109,17 @@ Last updated: 2026-10-07
 
 ## Slides and hands-on sheets
 
-The package contains 14 Japanese weekly PowerPoint decks, a setup deck, and a final-project deck. Text is set to Meiryo, with editable diagrams and tables. The slides include copyable prompts, concrete actions, checks, and submission steps. Japanese handouts mirror the slide order. English course notes and onboarding guides remain available; PowerPoint decks are in Japanese.
+Both language editions contain 14 weekly PowerPoint decks, a setup deck, and a final-project deck: 250 slides per language. Text is set to Meiryo, with editable diagrams and tables. English decks include English teaching notes. The slides and hands-on sheets provide copyable prompts, concrete actions, checks, and submission steps. English exercise materials and a blank student template are in `en/`.
 
-See [the slide index](slides/README.md). Instructors should run basic GitHub setup in the opening session, before the first weekly submission. Week 3 then develops editing, change review, and commit-based submission. The default workflow uses the browser; GitHub Desktop is optional. No paid AI plan or public student repository is required.
+See [the English slide index](en/slides/README.md). Instructors should run basic GitHub setup in the opening session, before the first weekly submission. Week 3 then develops editing, change review, and commit-based submission. The default workflow uses the browser; GitHub Desktop is optional. No paid AI plan or public student repository is required.
 
 The learning goals do not depend on a particular model. Product-specific operation names were checked on 17 September 2026 and should be reviewed before each term. The editable interface diagrams are schematic, not screenshots. Lucide icons retain their original ISC/MIT license notices.
 
 ## Initial setup and late joining
 
-Use the [student template](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template) to create your own Private ai-learning repository. Follow the [browser setup guide](en/docs/github_onboarding_student.md), upload one image and a short record to setup, invite the instructor, then send the repository URL through the existing university registration form. Late joiners use the same guide and form. Weekly submissions use the final commit URL for that assignment. Do not put your student ID or university email in your username or public profile. Self-study readers do not need university forms.
+Use the [English student template](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template-en) to create your own Private ai-learning repository. Follow the [browser setup guide](en/docs/github_onboarding_student.md), upload one image and a short record to setup, invite the instructor, then send the repository URL through the existing university registration form. Late joiners use the same guide and form. Weekly submissions use the final commit URL for that assignment. Do not put your student ID or university email in your username or public profile. Self-study readers do not need university forms.
 
-The current Japanese setup deck is [Initial setup (37 pages)](slides/00_Course_Setup.pdf), with a [step-by-step companion in Japanese](docs/setup_handson_step_by_step.md).
+Start with the [English setup PDF (37 pages)](en/slides/00_Course_Setup_EN.pdf) and its [English step-by-step companion](en/handouts/setup.md). The [Japanese setup deck](slides/00_Course_Setup.pdf) remains available.
 
 ## Teaching at another university
 

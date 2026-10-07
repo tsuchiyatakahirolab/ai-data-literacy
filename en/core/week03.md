@@ -1,6 +1,6 @@
 # Week 03: Keeping a learning record with GitHub
 
-[日本語](../../core/week03.md)
+[Japanese edition](../../core/week03.md)
 
 ## Learning objective
 
@@ -70,3 +70,7 @@ AI assistance is optional for this GitHub practice. If you do not use AI, write 
 
 
 Initial registration uses the repository URL. Weekly submissions use the final commit URL. Setup images and a short record belong in setup. Late joiners use the same registration form. Read the instructor handout and write in your own week03/README.md.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week03.md), which follows the slide order and includes copyable prompts.

@@ -1,6 +1,6 @@
 # Week 05: Summarizing, translating, and rewriting
 
-[日本語](../../core/week05.md)
+[Japanese edition](../../core/week05.md)
 
 ## Learning objective
 
@@ -12,11 +12,11 @@ Summaries and translations can become easier to read while quietly changing cond
 
 ## Materials
 
-- [`assets/week05/rewrite_source.md`](../../assets/week05/rewrite_source.md)
+- [`assets/week05/rewrite_source.md`](../assets/week05/rewrite_source.md)
 
 ## In-class activity
 
-1. Summarize or translate the assigned source text.
+1. Rewrite the supplied English source in plain English for first-year students, then translate it into another language you can verify. If you cannot verify another language, agree on an audience-focused English alternative with the instructor and record the limitation.
 2. Rewrite the same content for a different audience.
 3. Compare the versions and verify that meaning, numbers, conditions, and proper nouns have not changed.
 
@@ -61,3 +61,7 @@ Suggested commit message: `week05-submission`
 - [ ] I recorded what I checked or revised myself.
 - [ ] I did not include personal, confidential, or non-public information.
 - [ ] I submitted a commit URL, not the repository home page.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week05.md), which follows the slide order and includes copyable prompts.

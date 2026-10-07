@@ -1,18 +1,14 @@
-# Assessment Rubric
+# Assessment rubric
 
-## Standard weighting
+## Standard weights
 
 | Criterion | Weight | What is assessed |
 |---|---:|---|
-| Artifact | 50% | The submission meets the assignment requirements and is understandable to the intended reader. |
-| Checking and revision | 25% | The student checked AI output and corrected errors, weak evidence, or unclear wording when needed. |
-| AI-use record | 15% | The student explains what was delegated to AI and what was checked or revised by the student. |
-| GitHub submission | 10% | The required files are placed in the correct folder and the commit URL is submitted on time. |
+| Artifact | 50% | Meets the task requirements and is understandable to its audience. |
+| Checking and revision | 25% | Checks AI output and corrects errors, weak evidence, and wording when needed. |
+| AI-use record | 15% | Explains specifically what AI did and what the student did. |
+| GitHub submission | 10% | Saves the required files in the designated folder and submits the commit URL on time. |
 
-## What is not assessed as a primary criterion
+Using a particular AI service or a paid plan, writing a long prompt, saving full AI conversations, and memorizing terminology are normally not graded.
 
-The course does not grade students for using a specific AI service, using a paid AI plan, writing long prompts, preserving a full chat history, or memorizing AI terminology.
-
-## Examples of insufficient submissions
-
-A submission is insufficient if it only copies AI output without explaining verification, lacks source checking where required, submits only a repository URL instead of a commit URL, or places personal or non-public information in the repository.
+Examples of incomplete submissions include unexamined AI output, missing sources and checking records where required, a repository URL instead of the weekly commit URL, or files containing personal or confidential information. Initial registration uses the repository URL; weekly and final submissions use a commit URL. Follow the assessment policy published for your course.

@@ -1,7 +1,7 @@
-# Privacy and Publication Notes
+# Privacy and publication
 
-Student repositories should be private by default. Students should not publish personal information, non-public course materials, private AI conversations, or other students' work.
+The teaching materials may be public. Student submissions should normally remain private. Students create a Private repository and add the course instructor as a collaborator. Publication of student work is not a grading requirement, even when students want a public portfolio.
 
-A student may later turn selected work into a public portfolio only after removing private information and confirming that the materials can be shared. Public portfolio work should use public sources, synthetic data, or data with clear permission for reuse.
+Do not publish real students' personal information, student numbers, email addresses, grades, confidential materials, or personal information in AI conversations. Use fictional or publishable data for exercises.
 
-Instructors should not publish student repository URLs, form responses, dashboards, email addresses, or student IDs in the public course repository.
+Keep teaching materials, fictional data, instructions, and assessment policies in the public course repository. Manage student identities, course submission destinations, private management sheets, and links to students' Private repositories in the course management area.

@@ -1,6 +1,6 @@
 # Week 07: Researching with AI and checking sources
 
-[日本語](../../core/week07.md)
+[Japanese edition](../../core/week07.md)
 
 ## Learning objective
 
@@ -12,7 +12,7 @@ A citation does not guarantee that a source supports the claim. Open the source 
 
 ## Materials
 
-- [`assets/week07/source_check_template.md`](../../assets/week07/source_check_template.md)
+- [`assets/week07/source_check_template.md`](../assets/week07/source_check_template.md)
 
 ## In-class activity
 
@@ -61,3 +61,7 @@ Suggested commit message: `week07-submission`
 - [ ] I recorded what I checked or revised myself.
 - [ ] I did not include personal, confidential, or non-public information.
 - [ ] I submitted a commit URL, not the repository home page.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week07.md), which follows the slide order and includes copyable prompts.

@@ -1,6 +1,6 @@
 # Prepare your private repository with an image and a short record
 
-Use the Japanese setup slides and the course page specified by your instructor.
+Use the [English setup slides](../slides/00_Course_Setup_EN.pptx) and the course page specified by your instructor.
 
 ## Joining after the first class
 
@@ -72,7 +72,7 @@ A browser bookmark or an optional GitHub Star can help you return to the materia
 
 ## Links
 
-[Student template](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template) and [practice image](https://github.com/tsuchiyatakahirolab/ai-data-literacy/blob/main/assets/setup/practice.png). Use Download raw file to save the actual image. University course and form links are available inside the university course page. Self-study readers do not need a university account or course form.
+[Student template](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template-en) and [practice image](../../assets/setup/practice.png). Use Download raw file to save the actual image. University course and form links are available inside the university course page. Self-study readers do not need a university account or course form.
 
 ## Finding the buttons
 
@@ -114,3 +114,15 @@ Preview the three fields, then use Commit changes.
 
 Repository Settings → Collaborators → Add people. Invite the instructor username specified for your course (`tsuchiyatakahirolab` is the example shown in the material).
 
+
+## Fill in these three English fields
+
+```markdown
+## Saved image filename
+
+## AI used or supplied image
+
+## What I checked myself
+```
+
+Use the actual filename and describe what you did. The Japanese README visible in some screenshots is an example of the source template; your English template uses the fields above.

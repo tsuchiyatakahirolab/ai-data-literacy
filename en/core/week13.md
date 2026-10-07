@@ -1,6 +1,6 @@
 # Week 13: Delegating a multi-step task to AI
 
-[日本語](../../core/week13.md)
+[Japanese edition](../../core/week13.md)
 
 ## Learning objective
 
@@ -12,7 +12,7 @@ As AI handles longer workflows, you need to decide where human checks belong. Ma
 
 ## Materials
 
-- [`assets/week13/multi_step_planning_case.md`](../../assets/week13/multi_step_planning_case.md)
+- [`assets/week13/multi_step_planning_case.md`](../assets/week13/multi_step_planning_case.md)
 
 ## In-class activity
 
@@ -65,3 +65,7 @@ Suggested commit message: `week13-submission`
 ## Version 1.1 teaching update
 
 The core activity now uses the clearly fictional itinerary fixture in [the fictional itinerary fixture](../docs/itinerary_fixture.md). A live Kyoto itinerary remains an optional extension. No booking, payment, or autonomous external action is required. The transport budget is JPY 1,500 per person, not a combined food-and-admission budget.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week13.md), which follows the slide order and includes copyable prompts.

@@ -1,6 +1,6 @@
 # Week 02: Giving AI a clear task
 
-[日本語](../../core/week02.md)
+[Japanese edition](../../core/week02.md)
 
 ## Learning objective
 
@@ -12,7 +12,7 @@ You do not need a memorized “magic prompt.” Compare what happens when you gi
 
 ## Materials
 
-- [`assets/week02/bad_and_better_requests.md`](../../assets/week02/bad_and_better_requests.md)
+- [`assets/week02/bad_and_better_requests.md`](../assets/week02/bad_and_better_requests.md)
 
 ## In-class activity
 
@@ -61,3 +61,7 @@ Suggested commit message: `week02-submission`
 - [ ] I recorded what I checked or revised myself.
 - [ ] I did not include personal, confidential, or non-public information.
 - [ ] I submitted a commit URL, not the repository home page.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week02.md), which follows the slide order and includes copyable prompts.

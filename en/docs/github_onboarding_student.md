@@ -1,6 +1,6 @@
 # Prepare your private repository with an image and a short record
 
-Use the [current Japanese setup PDF](../../slides/00_Course_Setup.pdf) and [step-by-step companion](../../docs/setup_handson_step_by_step.md). Course forms and notification instructions come from your university course page.
+Use the [English setup PDF](../slides/00_Course_Setup_EN.pdf) and [step-by-step companion](../handouts/setup.md). Course forms and notification instructions come from your university course page.
 
 ## Joining after the first class
 
@@ -72,7 +72,7 @@ A browser bookmark or an optional GitHub Star can help you return to the materia
 
 ## Links
 
-[Student template](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template) and [practice image](https://github.com/tsuchiyatakahirolab/ai-data-literacy/blob/main/assets/setup/practice.png). Use Download raw file to save the actual image. University course and form links are available inside the university course page. Self-study readers do not need a university account or course form.
+[Student template](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template-en) and [practice image](https://github.com/tsuchiyatakahirolab/ai-data-literacy/blob/main/assets/setup/practice.png). Use Download raw file to save the actual image. University course and form links are available inside the university course page. Self-study readers do not need a university account or course form.
 
 ## Finding the buttons
 

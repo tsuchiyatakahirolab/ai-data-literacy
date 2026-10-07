@@ -1,6 +1,6 @@
 # Week 14: Preparing the final project
 
-[日本語](../../core/week14.md)
+[Japanese edition](../../core/week14.md)
 
 ## Learning objective
 
@@ -12,7 +12,7 @@ The final project rewards an evidence-based artifact, not the amount of AI used.
 
 ## Materials
 
-- [`assets/week14/final_planning_template.md`](../../assets/week14/final_planning_template.md)
+- [`assets/week14/final_planning_template.md`](../assets/week14/final_planning_template.md)
 
 ## In-class activity
 
@@ -61,3 +61,7 @@ Suggested commit message: `week14-submission`
 - [ ] I recorded what I checked or revised myself.
 - [ ] I did not include personal, confidential, or non-public information.
 - [ ] I submitted a commit URL, not the repository home page.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week14.md), which follows the slide order and includes copyable prompts.

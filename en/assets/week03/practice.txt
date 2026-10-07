@@ -1,0 +1,3 @@
+This is a practice file for AI and Data Literacy.
+Upload this file to week03 in your own private repository.
+Open it on GitHub and check that you can read these lines.

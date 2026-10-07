@@ -1,6 +1,6 @@
 # Week 10: Reading charts critically
 
-[日本語](../../core/week10.md)
+[Japanese edition](../../core/week10.md)
 
 ## Learning objective
 
@@ -12,7 +12,7 @@ The same data can create different impressions depending on axes and scale. Lear
 
 ## Materials
 
-- [`assets/week10/misleading_chart.png`](../../assets/week10/misleading_chart.png)
+- [`assets/week10/misleading_chart.png`](../assets/week10/misleading_chart.png)
 
 ## In-class activity
 
@@ -61,3 +61,7 @@ Suggested commit message: `week10-submission`
 - [ ] I recorded what I checked or revised myself.
 - [ ] I did not include personal, confidential, or non-public information.
 - [ ] I submitted a commit URL, not the repository home page.
+
+## Step-by-step activity
+
+Follow the [English hands-on sheet](../handouts/week10.md), which follows the slide order and includes copyable prompts.
