@@ -11,20 +11,20 @@
 
 授業では暗記試験を行いません。学生は各回の演習でAIを使い、成果物と短いAI利用記録をGitHubに残します。評価の中心は、AIを使った量ではなく、AIに何を任せ、どこを自分で確認し、どのように修正して成果物にしたかです。
 
-この教材は、特定のAIサービスや画面操作に依存しないように設計しています。授業本体は2027年度以降も使える能力を扱い、サービス固有の操作、料金、学生向け特典は `tool-guides/` と `current/` に分けています。
+この教材は、特定のAIサービスや画面操作に依存しないように設計しています。授業本体は継続して使える基礎的な能力を扱い、サービス固有の操作、料金、学生向け特典は `tool-guides/` と `current/` に分けています。
 
 
 ## 配布用PDFと一括ダウンロード
 
-配布用に、全16本の[ノートなしPDF一覧](slides/README.md)と[全250ページのPDF](slides/AI_Data_Literacy_All_Slides.pdf)を用意しました。[教材一式ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Complete_2026-10-07.zip)には編集用PPTX、各回のPDF、演習シート、日英教材、サンプルデータ、空の学生用ひな形を同梱しています。
+配布用に、全16本の[ノートなしPDF一覧](slides/README.md)と[全250ページのPDF](slides/AI_Data_Literacy_All_Slides.pdf)を用意しました。[教材一式ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials.zip)には編集用PPTX、各回のPDF、演習シート、日英教材、サンプルデータ、空の学生用ひな形を同梱しています。
 
-## 導入v1.4のスライドと演習シート
+## 初回準備のスライドと演習シート
 
-日本語のPowerPointは、全14回に加えて、初回準備と最終課題の計16ファイルです。本文はメイリオ指定で、操作手順、依頼文、確認表、計算例を含みます。[スライド一覧](slides/README.md)から開けます。授業で投影する本文は原則24〜28 ptとし、補足や出典表示は18〜22 ptにしています。
+日本語のPowerPointは、全14回に加えて、初回準備と最終課題の計16ファイルです。本文はメイリオ指定で、操作手順、依頼文、確認表、計算例を含みます。[スライド一覧](slides/README.md)から開けます。
 
 学生は[演習シート](handouts/week01.md)を横に開き、依頼文をコピーして作業できます。初回は[準備の案内](docs/first_class_setup.md)に従ってGitHubを設定します。ブラウザだけの手順を基本とし、授業の必須操作はすべてブラウザで行います。第13回の基本課題には、検索機能がなくても使える架空の施設・移動表を追加しました。
 
-英語版はREADME、14回の教材本文、最終課題、関連ガイドです。この版のPowerPointは日本語のみです。
+英語版はREADME、14回の教材本文、最終課題、関連ガイドです。PowerPointは日本語です。
 
 ## この授業で身につけること
 
@@ -84,7 +84,7 @@ AI会話の共有リンクやチャット全文の提出は原則として求め
 - `student-template/`: 学生用repositoryの雛形。
 - `slides/`: 日本語の授業用PowerPoint。
 
-Google FormsとMaster Dashboardの自動生成スクリプトは、授業運用用の別パックで管理します。公開教材の本体には、学生の個人情報、学内URL、回答用フォーム、Dashboard URLを含めません。
+提出先と確認方法は担当教員が授業で利用できるフォームやLMSを使って案内します。学生の個人情報・学内リンク・回答用の受付先は授業の管理領域で扱います。
 
 ## Repository構成
 
@@ -114,13 +114,12 @@ slides/           日本語の講義用PowerPoint
 ## Maintainer
 
 Takahiro Tsuchiya  
-Version: 1.3  
-Last updated: 2026-10-06
+Last updated: 2026-10-07
 
 ## 初回と途中参加の準備
 
-[学生用ひな形](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template)から自分のPrivateのai-learningを作ります。[導入手順](docs/github_onboarding_student.md)に沿って画像1枚と短い利用記録をsetupへ保存し、教員を招待して学内の既存初回登録フォームへrepository URLを送ります。第2回以降も同じ入口を使います。毎週は指定回の最後のcommit URLを既存週次フォームへ送ります。
+[学生用ひな形](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template)から自分のPrivateのai-learningを作ります。[導入手順](docs/github_onboarding_student.md)に沿って画像1枚と短い利用記録をsetupへ保存し、教員を招待して授業で指定された初回登録フォームへrepository URLを送ります。第2回以降も同じ入口を使います。毎週は指定回の最後のcommit URLを既存週次フォームへ送ります。
 
 handouts/week01.mdは読む資料で、自分のweek01/README.mdが書く場所です。学籍番号・氏名・大学メールはフォームで教員に伝え、公開プロフィールやusernameへ書きません。画像だけを修正した場合、初回登録の再送は不要です。
 
-初回準備は[導入v1.4 PDF（37ページ）](slides/00_Course_Setup_v1.4.pdf)と[1つずつ進める補助手順](docs/setup_handson_step_by_step.md)を横に開いて進められます。
+初回準備は[初回準備 PDF（37ページ）](slides/00_Course_Setup.pdf)と[1つずつ進める補助手順](docs/setup_handson_step_by_step.md)を横に開いて進められます。

@@ -1,6 +1,6 @@
 # Prepare your private repository with an image and a short record
 
-Editorial draft: Codex must check the live interface and replace course links before publication. Describe email notifications only after that feature is enabled.
+Use the Japanese setup slides and the course page specified by your instructor.
 
 ## Joining after the first class
 
@@ -8,9 +8,9 @@ Use the same template and initial registration form even when you join in Week 0
 
 The aim is to save an image and a short record in your private repository and let the instructor check those files. A repository stores files and their change history. The quality of the image is not graded.
 
-## 1. Open the course page with your university Google account
+## 1. Open the course page with the account specified by your instructor
 
-Check the email shown under the account icon. Switch from your personal account to your university account when access is denied; do not request access from your personal email. GitHub uses a separate account.
+Open the course page provided by your instructor and check the signed-in account. Switch to the required account, such as your university email, if needed. Check your GitHub account separately.
 
 ## 2. Sign in to GitHub and find your username
 
@@ -24,7 +24,7 @@ While signed in to GitHub, click the round profile picture in the upper-right co
 
 Open the student template from the course page. Select Use this template, then Create a new repository. Choose your own account as Owner, enter ai-learning, and select Private. Use the template function, not Fork. Do not include your student number in the repository name.
 
-Check that the new page shows your username and Private. If it still shows tsuchiyatakahirolab, you are viewing the instructor's repository. Open your own ai-learning. Students who already created it should keep using that repository.
+Check that the new page shows your username and Private. If the owner is not you, you are viewing the source template. Open your own ai-learning. Students who already created it should keep using that repository.
 
 ## 4. Save an image on your computer
 
@@ -46,7 +46,7 @@ For example: I uploaded practice.png using the supplied image. I opened it on Gi
 
 ## 7. Invite the instructor
 
-Open Settings in your ai-learning repository, then Collaborators and Add people. Search for the instructor username specified for your course and check the full username before sending the invitation. For this course, use `tsuchiyatakahirolab`. Use repository settings, not your general account settings.
+Open Settings in your ai-learning repository, then Collaborators and Add people. Search for the instructor username specified for your course and check the full username before sending the invitation. The slides show `tsuchiyatakahirolab` as the material author's example; ask your instructor which username to invite. Use repository settings, not your general account settings.
 
 When using these materials for another course, replace the invitation username in these instructions with the account of that course's instructor.
 
@@ -54,7 +54,7 @@ This grants the instructor read and write access to this course repository. Do n
 
 ## 8. Submit the existing initial registration form
 
-Open the form with your university Google account and check the collected email. Enter your complete student number, such as 2026GT0001, your GitHub username, and the URL of your own repository. This single response links the student number to the GitHub account and submission location.
+Open the form with the account specified for your course and check the collected email. Enter your complete student number in the format required by your university (2026GT0001 is an example), your GitHub username, and the URL of your own repository. This single response links the student number to the GitHub account and submission location.
 
 Initial registration needs the repository URL, not a commit URL. There is no separate Week 00 form. Check the confirmation page after sending the form. Correct registration details through the same form's published instructions.
 
@@ -112,5 +112,5 @@ Preview the three fields, then use Commit changes.
 
 ![Invite the instructor](../../assets/setup/screens/repo-actions-settings.png)
 
-Repository Settings → Collaborators → Add people. Invite the instructor username specified for your course (`tsuchiyatakahirolab` for this course).
+Repository Settings → Collaborators → Add people. Invite the instructor username specified for your course (`tsuchiyatakahirolab` is the example shown in the material).
 

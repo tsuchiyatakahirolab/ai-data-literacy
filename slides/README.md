@@ -1,48 +1,34 @@
-# 日本語スライド・配布用PDF
+# 授業スライドと配布用PDF
 
-初回準備・全14回・最終課題の計16本、250枚です。各回のPDFはスライド本文のみを収録し、教員用ノート・コメント・添付ファイルを含みません。ロゴと著者URLは現在の配置を維持しています。
+初回準備・全14回・最終課題の計16本、250ページです。教員の編集・投影にはPPTX、学生の閲覧にはノートなしPDFを使えます。
 
-[全250ページのPDF](AI_Data_Literacy_All_Slides.pdf) ／ [教材一式ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Complete_2026-10-07.zip)
+[全250ページのPDF](AI_Data_Literacy_All_Slides.pdf) ／ [教材一式ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials.zip)
 
 | 回 | 編集用PPTX | 配布用PDF | 枚数 | 操作・コピー用シート |
 |---|---|---|---:|---|
-| 初回準備 | [最初の準備](00_Course_Setup_v1.4.pptx) | [PDF](00_Course_Setup_v1.4.pdf) | 37 | [演習シート](../handouts/setup.md) |
-| 第1回 | [AIの使い道を広げる](Week01_AI_Landscape_v1.1.pptx) | [PDF](Week01_AI_Landscape_v1.1.pdf) | 14 | [演習シート](../handouts/week01.md) |
-| 第2回 | [必要なことをAIに伝える](Week02_Clear_Requests_v1.1.pptx) | [PDF](Week02_Clear_Requests_v1.1.pdf) | 14 | [演習シート](../handouts/week02.md) |
-| 第3回 | [変更を確かめてGitHubへ残す](Week03_GitHub_Workflow_v1.3.pptx) | [PDF](Week03_GitHub_Workflow_v1.3.pdf) | 21 | [演習シート](../handouts/week03.md) |
-| 第4回 | [資料に書いてあることを確かめる](Week04_Read_Documents_v1.1.pptx) | [PDF](Week04_Read_Documents_v1.1.pdf) | 14 | [演習シート](../handouts/week04.md) |
-| 第5回 | [意味を変えずに伝え方を変える](Week05_Rewrite_Translate_v1.1.pptx) | [PDF](Week05_Rewrite_Translate_v1.1.pdf) | 13 | [演習シート](../handouts/week05.md) |
-| 第6回 | [初めて読む人に伝わる案内を作る](Week06_Create_Notice_v1.1.pptx) | [PDF](Week06_Create_Notice_v1.1.pdf) | 13 | [演習シート](../handouts/week06.md) |
-| 第7回 | [出典を開いて答えを確かめる](Week07_Check_Sources_v1.1.pptx) | [PDF](Week07_Check_Sources_v1.1.pdf) | 14 | [演習シート](../handouts/week07.md) |
-| 第8回 | [根拠のない断定を直す](Week08_Errors_and_Bias_v1.1.pptx) | [PDF](Week08_Errors_and_Bias_v1.1.pdf) | 13 | [演習シート](../handouts/week08.md) |
-| 第9回 | [割合の分母を確かめる](Week09_Read_Numbers_v1.1.pptx) | [PDF](Week09_Read_Numbers_v1.1.pdf) | 14 | [演習シート](../handouts/week09.md) |
-| 第10回 | [グラフの印象を数字と比べる](Week10_Read_Charts_v1.1.pptx) | [PDF](Week10_Read_Charts_v1.1.pdf) | 14 | [演習シート](../handouts/week10.md) |
-| 第11回 | [小さなCSVをAIと分析する](Week11_AI_Data_Analysis_v1.1.pptx) | [PDF](Week11_AI_Data_Analysis_v1.1.pdf) | 17 | [演習シート](../handouts/week11.md) |
-| 第12回 | [AIに答えだけを求めない](Week12_Learn_with_AI_v1.1.pptx) | [PDF](Week12_Learn_with_AI_v1.1.pdf) | 13 | [演習シート](../handouts/week12.md) |
-| 第13回 | [条件を確かめながら仕事を任せる](Week13_Plan_and_Check_v1.1.pptx) | [PDF](Week13_Plan_and_Check_v1.1.pdf) | 15 | [演習シート](../handouts/week13.md) |
-| 第14回 | [最終課題の問いを絞る](Week14_Final_Planning_v1.1.pptx) | [PDF](Week14_Final_Planning_v1.1.pdf) | 12 | [演習シート](../handouts/week14.md) |
-| 最終課題 | [最終課題](Final_Project_v1.1.pptx) | [PDF](Final_Project_v1.1.pdf) | 12 | [演習シート](../handouts/final_project.md) |
+| 初回準備 | [最初の準備](00_Course_Setup.pptx) | [PDF](00_Course_Setup.pdf) | 37 | [演習シート](../handouts/setup.md) |
+| 第1回 | [AIの使い道を広げる](Week01_AI_Landscape.pptx) | [PDF](Week01_AI_Landscape.pdf) | 14 | [演習シート](../handouts/week01.md) |
+| 第2回 | [必要なことをAIに伝える](Week02_Clear_Requests.pptx) | [PDF](Week02_Clear_Requests.pdf) | 14 | [演習シート](../handouts/week02.md) |
+| 第3回 | [変更を確かめてGitHubへ残す](Week03_GitHub_Workflow.pptx) | [PDF](Week03_GitHub_Workflow.pdf) | 21 | [演習シート](../handouts/week03.md) |
+| 第4回 | [資料に書いてあることを確かめる](Week04_Read_Documents.pptx) | [PDF](Week04_Read_Documents.pdf) | 14 | [演習シート](../handouts/week04.md) |
+| 第5回 | [意味を変えずに伝え方を変える](Week05_Rewrite_Translate.pptx) | [PDF](Week05_Rewrite_Translate.pdf) | 13 | [演習シート](../handouts/week05.md) |
+| 第6回 | [初めて読む人に伝わる案内を作る](Week06_Create_Notice.pptx) | [PDF](Week06_Create_Notice.pdf) | 13 | [演習シート](../handouts/week06.md) |
+| 第7回 | [出典を開いて答えを確かめる](Week07_Check_Sources.pptx) | [PDF](Week07_Check_Sources.pdf) | 14 | [演習シート](../handouts/week07.md) |
+| 第8回 | [根拠のない断定を直す](Week08_Errors_and_Bias.pptx) | [PDF](Week08_Errors_and_Bias.pdf) | 13 | [演習シート](../handouts/week08.md) |
+| 第9回 | [割合の分母を確かめる](Week09_Read_Numbers.pptx) | [PDF](Week09_Read_Numbers.pdf) | 14 | [演習シート](../handouts/week09.md) |
+| 第10回 | [グラフの印象を数字と比べる](Week10_Read_Charts.pptx) | [PDF](Week10_Read_Charts.pdf) | 14 | [演習シート](../handouts/week10.md) |
+| 第11回 | [小さなCSVをAIと分析する](Week11_AI_Data_Analysis.pptx) | [PDF](Week11_AI_Data_Analysis.pdf) | 17 | [演習シート](../handouts/week11.md) |
+| 第12回 | [AIに答えだけを求めない](Week12_Learn_with_AI.pptx) | [PDF](Week12_Learn_with_AI.pdf) | 13 | [演習シート](../handouts/week12.md) |
+| 第13回 | [条件を確かめながら仕事を任せる](Week13_Plan_and_Check.pptx) | [PDF](Week13_Plan_and_Check.pdf) | 15 | [演習シート](../handouts/week13.md) |
+| 第14回 | [最終課題の問いを絞る](Week14_Final_Planning.pptx) | [PDF](Week14_Final_Planning.pdf) | 12 | [演習シート](../handouts/week14.md) |
+| 最終課題 | [最終課題](Final_Project.pptx) | [PDF](Final_Project.pdf) | 12 | [演習シート](../handouts/final_project.md) |
 
-## ファイルの使い方
+## 使い方
 
-授業での投影・編集にはPPTX、学生への配布・閲覧にはPDFを使えます。PPTXには元のノートを保持しています。PDFには各スライドのしおりがあり、導入の内部リンクと既存のWebリンクもクリックできます。
+他大学や別の授業で使う教員は、[授業に合わせる項目](../docs/instructor_adaptation.md)で教員のusername、ひな形、提出先、使用アカウント、学籍番号の形式を確認してください。
 
-PDFはメイリオを使って描画した画像による閲覧版です。本文の検索・コピー・編集にはPPTXを使ってください。PPTXはメイリオ指定で、フォントファイルを同梱していません。PowerPoint本体での表示・書き出しは未確認です。
+初回準備は[1つずつ進める手順](../docs/setup_handson_step_by_step.md)を横に開いて進められます。各回は演習シートの依頼文をコピーし、成果物と短いAI利用記録を残します。独習は[自習の案内](../docs/self_study.md)を参照してください。
 
-## 初回準備と途中参加
+PPTXのノートには授業の進め方と出典があります。PDFにはノート・コメント・添付を含めず、各回・各ページのしおりとリンクがあります。PDFはメイリオによる表示を画像で保持しているため、本文の検索・コピー・編集にはPPTXや演習シートを使ってください。PPTXにはフォントファイルを同梱していません。
 
-導入v1.4は37枚、第3回v1.3は21枚です。初回準備は[1つずつ進める補助手順](../docs/setup_handson_step_by_step.md)を横に開いて進められます。旧導入v1.3の公開URLは履歴と互換性のため残していますが、現行の16本と教材一式ZIPには含めません。
-
-## 更新記録
-
-2026-10-07追記：導入27枚目のタイトルを「教員のアカウントを招待する」に変更しました。別の授業では招待先usernameを担当教員へ差し替える説明を加え、日英手順・PDF・一括ZIPも更新しました。
-
-2026-10-07追記：利用者の修正した導入9・17・32枚目と、同じ添付版の8枚目の大学メールの注記を反映しました。日英補助手順、導入PDF・全250ページPDF・一括ZIPも更新済みです。
-
-2026-10-07追記：導入9枚目と日英の補助手順を、右上メニュー上部のアカウント名でusernameを確認する説明に修正しました。PDF・一括ZIPにも反映しています。
-
-2026-10-07：16本すべてのノートなしPDFと、250ページの結合PDFを追加しました。既存の課題本文・授業用PPTX・採点・フォームは維持しています。
-
-導入の[加筆記録](../docs/SETUP_V14_REVIEW.md)、[現在の透過ロゴ](../docs/REFERENCE_LOGO.md)、[配布パックの使い方](../docs/DISTRIBUTION.md)も参照できます。
-
-The 16 decks and slide-only PDFs are in Japanese. English course notes are available in `en/core/`.
+スライドは日本語です。英語の教材本文と導入案内は`en/`にあります。[画面例の読み方](../docs/screen_examples.md)、[参考資料](../docs/slide_references.md)、[教材一式の使い方](../docs/DISTRIBUTION.md)も利用できます。

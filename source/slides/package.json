@@ -1,8 +1,0 @@
-{
-  "name": "ai-data-literacy-slide-source",
-  "version": "1.1.0",
-  "private": true,
-  "dependencies": {
-    "pptxgenjs": "4.0.0"
-  }
-}

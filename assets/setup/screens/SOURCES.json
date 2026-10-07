@@ -10,8 +10,7 @@
     "caption": "GitHub公式文書の掲載画面（撮影日不明・2026-10-06閲覧）",
     "source_url": "https://docs.github.com/assets/cb-27122/mw-1440/images/help/repository/choose-commit-branch.webp",
     "crop_box": null,
-    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set",
-    "revision": "setup v1.3"
+    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set"
   },
   {
     "file": "create-repository-name.png",
@@ -24,8 +23,7 @@
     "caption": "GitHub公式文書の掲載画面（撮影日不明・2026-10-06閲覧）",
     "source_url": "https://docs.github.com/assets/cb-89988/mw-1440/images/help/repository/create-repository-name.webp",
     "crop_box": null,
-    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set",
-    "revision": "setup v1.3"
+    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set"
   },
   {
     "file": "create-repository-owner.png",
@@ -38,8 +36,7 @@
     "caption": "GitHub公式文書の掲載画面（撮影日不明・2026-10-06閲覧）",
     "source_url": "https://docs.github.com/assets/cb-80933/mw-1440/images/help/repository/create-repository-owner.webp",
     "crop_box": null,
-    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set",
-    "revision": "setup v1.3"
+    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set"
   },
   {
     "file": "edit-file-edit-button.png",
@@ -52,8 +49,7 @@
     "caption": "GitHub公式文書の掲載画面（撮影日不明・2026-10-06閲覧）",
     "source_url": "https://docs.github.com/assets/cb-47646/mw-1440/images/help/repository/edit-file-edit-button.webp",
     "crop_box": null,
-    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set",
-    "revision": "setup v1.3"
+    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set"
   },
   {
     "file": "edit-readme-preview-changes.png",
@@ -66,8 +62,7 @@
     "caption": "GitHub公式文書の掲載画面（撮影日不明・2026-10-06閲覧）",
     "source_url": "https://docs.github.com/assets/cb-35434/mw-1440/images/help/repository/edit-readme-preview-changes.webp",
     "crop_box": null,
-    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set",
-    "revision": "setup v1.3"
+    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set"
   },
   {
     "file": "repo-actions-settings.png",
@@ -80,8 +75,7 @@
     "caption": "GitHub公式文書の掲載画面（撮影日不明・2026-10-06閲覧）",
     "source_url": "https://docs.github.com/assets/cb-28260/mw-1440/images/help/repository/repo-actions-settings.webp",
     "crop_box": null,
-    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set",
-    "revision": "setup v1.3"
+    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set"
   },
   {
     "file": "upload-files-button.png",
@@ -94,8 +88,7 @@
     "caption": "GitHub公式文書の掲載画面（撮影日不明・2026-10-06閲覧）",
     "source_url": "https://docs.github.com/assets/cb-54037/mw-1440/images/help/repository/upload-files-button.webp",
     "crop_box": null,
-    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set",
-    "revision": "setup v1.3"
+    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set"
   },
   {
     "file": "use-this-template-button.png",
@@ -108,8 +101,7 @@
     "caption": "GitHub公式文書の掲載画面（撮影日不明・2026-10-06閲覧）",
     "source_url": "https://docs.github.com/assets/cb-76823/mw-1440/images/help/repository/use-this-template-button.webp",
     "crop_box": null,
-    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set",
-    "revision": "setup v1.3"
+    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set"
   },
   {
     "file": "setup-folder-public.png",
@@ -127,8 +119,7 @@
       1234,
       427
     ],
-    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set",
-    "revision": "setup v1.3"
+    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set"
   },
   {
     "file": "setup-record-public.png",
@@ -146,8 +137,7 @@
       1160,
       680
     ],
-    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set",
-    "revision": "setup v1.3"
+    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set"
   },
   {
     "file": "template-public.png",
@@ -165,7 +155,6 @@
       1234,
       430
     ],
-    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set",
-    "revision": "setup v1.3"
+    "transformation": "RGB raster conversion, metadata removed; cropped when crop_box is set"
   }
 ]

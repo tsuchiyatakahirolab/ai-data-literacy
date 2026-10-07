@@ -1,12 +1,12 @@
 # 初回の準備を、1つずつ進める
 
-導入v1.4のスライドを開き、次の順に進めます。パソコンのブラウザだけで操作できます。途中で止めた人は、同じ保存先を開いて未完了の手順から続けます。
+初回準備のスライドを開き、次の順に進めます。パソコンのブラウザだけで操作できます。途中で止めた人は、同じ保存先を開いて未完了の手順から続けます。
 
 授業ページと登録フォームは、教員から案内された学内の入口を使います。学外の独習者は初回登録・教員招待を行う必要はありません。
 
 ## 1. アカウントを確かめる（5〜9ページ）
 
-1. 大学の授業ページを開き、右上のアカウントが大学メールか確かめます。私用Googleアカウントなら大学アカウントへ切り替えます。
+1. 担当教員が指定した授業ページを開き、大学メールなど指定されたアカウントでログインしているか確かめます。違うアカウントなら切り替えます。
 2. GitHubのアカウントがある人は[Sign in](https://github.com/login)、初めての人は[登録ページ](https://github.com/signup)を開きます。GitHubはGoogleと別のアカウントです。すでに持っている人は作り直しません。
 3. 初めての人は、大学メール・自分で決めたusername・パスワードなどを入力し、画面の案内に従って登録します。確認メールが届いたら、その案内でメールを確認します。
 4. GitHub右上のプロフィール画像 → Settings → Emailsを開きます。[メール設定へのリンク](https://github.com/settings/emails)からも開けます。既存アカウントなら「Add email address」に大学メールを入力し、Addを押して確認メールの案内を進めます。大学メールが追加済み、またはPrimary email addressに大学メールが入っていれば再追加は不要です。Verified（確認済み）の表示を確認します。普段のメールをPrimaryから外す必要はありません。
@@ -17,7 +17,7 @@
 
 ## 2. 自分の保存先を作る（10〜14ページ）
 
-1. [学生用ひな形](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template)を開きます。画面のOwnerは教員の`tsuchiyatakahirolab`です。ここはコピー元です。
+1. [学生用ひな形](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template)を開きます。画面のOwnerはコピー元の所有者です。掲載例では`tsuchiyatakahirolab`ですが、授業で案内されたひな形を使います。
 2. Use this template → Create a new repositoryを選びます。見えない場合は、GitHubへログインしているか確認します。Forkは使いません。
 3. Ownerで自分のアカウントを選び、Repository nameへ`ai-learning`と入力します。名前に学籍番号や氏名は入れません。
 4. Privateを選び、Ownerと名前をもう一度見てからCreate repositoryを押します。
@@ -68,7 +68,7 @@ GitHubで画像を開き、パソコンの画像と同じだと確認した。
 
 1. 自分のai-learningの上部にあるSettingsを押します。右上のプロフィールから開くアカウントのSettingsとは違います。タブが見えないときは右端の「…」も見ます。
 2. 左側のAccessにあるCollaborators → Add peopleを押します。GitHubが本人確認を求めたら、自分で対応します。
-3. 検索欄へ、授業で指定された教員のusernameを入力します。この授業では`tsuchiyatakahirolab`です。候補のusernameが最後まで完全に一致することを確かめ、その候補をクリックします。
+3. 検索欄へ、授業で指定された教員のusernameを入力します。スライド中の`tsuchiyatakahirolab`は教材作成者の例です。実際の招待先は担当教員に確認します。候補のusernameが最後まで完全に一致することを確かめ、その候補をクリックします。
 4. Add … to ai-learningを押して招待を確定します。検索するだけでは招待は送られません。
 5. 一覧に教員名と招待中（Pending invite等）が見えれば次へ進めます。すでに教員名が受理済みの協力者として表示されている場合は、再招待しません。
 
@@ -83,7 +83,7 @@ GitHubで画像を開き、パソコンの画像と同じだと確認した。
 3. 初回登録へ送るURLは`https://github.com/自分のusername/ai-learning`です。`example-student`のままにしません。`/tree/`・`/blob/`・`/commit/`が付いたURLは初回の保存先登録に使いません。
 4. 大学の授業ページから、既存の「初回登録」を開きます。ログイン中のアカウントとフォームのメール表示が大学メールか確かめます。
 5. 自分の学籍番号、username、自分のリポジトリURLなど、既存フォームの必要項目を入力します。URLはWindowsならCtrl+Vで貼り付けます。
-6. 学籍番号は自分の実際の番号を省略せず、半角10文字（西暦4桁・英大文字2字・数字4桁）で入力します。スライドの例は自分の番号へ替えます。
+6. 学籍番号は自分の大学で指定された形式で、省略せず入力します。スライドの半角10文字の番号は形式例です。自分の番号と授業の入力規則を使います。
 7. 送信ボタンを押し、完了画面が出たことを確認します。
 
 **自分の準備が終わった目印：** Private、setupの画像、短い記録、教員への招待、初回登録の5つが済んでいます。教員の点検結果は授業ページの実際の案内に従って確認します。結果がすぐ届かなくても、同じ登録を何度も送る必要はありません。
@@ -98,8 +98,8 @@ GitHubで画像を開き、パソコンの画像と同じだと確認した。
 6. 画像・記録だけの修正なら、指定箇所を保存し、初回登録を再送しません。usernameやURLを誤って登録した場合は、授業ページの修正案内に従います。フォームに「回答を編集」が表示されるならその回答を編集し、表示されなければ教員へ修正方法を確認します。アカウントを作り直して解決しようとしません。
 7. 過去の課題・締切の扱いは教員へ確認します。学生特典・Star・37ページの学習目標は任意で、準備完了の条件には含めません。
 
-困った場合は、止まったページ番号とエラー文を教員に伝えます。大学Googleのログイン問題は5ページ、GitHubのログイン問題は6〜8ページへ戻ります。見せる画面から、パスワード・認証コード・個人情報を隠します。
+困った場合は、止まったページ番号とエラー文を教員に伝えます。授業ページのログイン問題は5ページ、GitHubのログイン問題は6〜8ページへ戻ります。見せる画面から、パスワード・認証コード・個人情報を隠します。
 
 ## 手順と画面例の根拠
 
-GitHubの[メール追加](https://docs.github.com/en/account-and-profile/how-tos/email-preferences/adding-an-email-address-to-your-github-account)、[ファイル編集](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files)、[教員などの招待](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository)を2026-10-07に照合しました。画面例は提供されたv1.4・v1.3の再利用で、新しく学生のPrivateへログインして撮影した画面ではありません。模式図はそのように表示しています。
+GitHubの[メール追加](https://docs.github.com/en/account-and-profile/how-tos/email-preferences/adding-an-email-address-to-your-github-account)、[ファイル編集](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files)、[教員などの招待](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository)を2026-10-07に照合しました。掲載画像には公開ひな形・公式文書の画面例と模式図があります。学生は自分のPrivate保存先で操作します。

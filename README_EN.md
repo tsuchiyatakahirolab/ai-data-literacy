@@ -15,7 +15,7 @@ The stable curriculum is separated from product-specific instructions. Core less
 
 ## Distribution PDFs and complete download
 
-[Slide-only PDFs for all 16 Japanese decks](slides/README.md), a [250-page combined PDF](slides/AI_Data_Literacy_All_Slides.pdf), and a [complete teaching ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Complete_2026-10-07.zip) are available. The archive includes editable PPTX decks, PDFs, Japanese and English course notes, handouts, sample data, and a blank student template. The PDFs omit speaker notes and use rendered slide images; searchable and editable text remains in the PPTX.
+[Slide-only PDFs for all 16 Japanese decks](slides/README.md), a [250-page combined PDF](slides/AI_Data_Literacy_All_Slides.pdf), and a [complete teaching ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials.zip) are available. The archive includes editable PPTX decks, PDFs, Japanese and English course notes, handouts, sample data, and a blank student template. The PDFs omit speaker notes and use rendered slide images; searchable and editable text remains in the PPTX.
 
 ## Learning outcomes
 
@@ -77,7 +77,7 @@ The course does not normally require students to submit full chat histories or A
 - `student-template/`: template repository for student submissions.
 - `slides/`: Japanese PowerPoint decks for the course.
 
-Google Forms and the Master Dashboard should be managed as a separate institutional operations package. The public repository should not include student records, internal form URLs, or dashboard links.
+The instructor provides submission destinations and checking methods through the forms or LMS available at their university. Student records and course-only links belong in the course management area.
 
 ## Repository structure
 
@@ -99,12 +99,11 @@ Course text, slides, and sample materials are released under the Creative Common
 ## Maintainer
 
 Takahiro Tsuchiya  
-Version: 1.3  
-Last updated: 2026-10-06
+Last updated: 2026-10-07
 
-## Slides and hands-on sheets in version 1.1
+## Slides and hands-on sheets
 
-The package contains 14 Japanese weekly PowerPoint decks, a setup deck, and a final-project deck. Text is set to Meiryo, with editable diagrams and tables. The slides include copyable prompts, concrete actions, checks, and submission steps. Japanese handouts mirror the slide order. English course notes and onboarding guides remain available; this release does not include English PowerPoint decks.
+The package contains 14 Japanese weekly PowerPoint decks, a setup deck, and a final-project deck. Text is set to Meiryo, with editable diagrams and tables. The slides include copyable prompts, concrete actions, checks, and submission steps. Japanese handouts mirror the slide order. English course notes and onboarding guides remain available; PowerPoint decks are in Japanese.
 
 See [the slide index](slides/README.md). Instructors should run basic GitHub setup in the opening session, before the first weekly submission. Week 3 then develops editing, change review, and commit-based submission. The default workflow uses the browser; GitHub Desktop is optional. No paid AI plan or public student repository is required.
 
@@ -114,4 +113,8 @@ The learning goals do not depend on a particular model. Product-specific operati
 
 Use the [student template](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template) to create your own Private ai-learning repository. Follow the [browser setup guide](en/docs/github_onboarding_student.md), upload one image and a short record to setup, invite the instructor, then send the repository URL through the existing university registration form. Late joiners use the same guide and form. Weekly submissions use the final commit URL for that assignment. Do not put your student ID or university email in your username or public profile. Self-study readers do not need university forms.
 
-The current Japanese setup deck is [v1.4 (37 pages)](slides/00_Course_Setup_v1.4.pdf), with a [step-by-step companion in Japanese](docs/setup_handson_step_by_step.md).
+The current Japanese setup deck is [Initial setup (37 pages)](slides/00_Course_Setup.pdf), with a [step-by-step companion in Japanese](docs/setup_handson_step_by_step.md).
+
+## Teaching at another university
+
+Use the [instructor adaptation guide](en/docs/instructor_adaptation.md) to provide your course page, template, instructor username, account requirements, student-number format, submission destinations, and feedback method. Students follow the instructions published for their own course.
