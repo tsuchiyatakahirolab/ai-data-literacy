@@ -13,5 +13,10 @@
   ],
   "footer_text": "tsuchiyatakahiro.com",
   "scope": "Course slide masters, dedicated cover placement and viewing PDF",
-  "removal_proof": false
+  "removal_proof": false,
+  "cover_backplate": false,
+  "transparent_PNG_alpha_preserved": true,
+  "dark_cover_display_effect": "native PowerPoint duotone FFFFFF/FFFFFF",
+  "bright_page_display": "original black transparent PNG",
+  "display_correction_date": "2026-10-07"
 }
