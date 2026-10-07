@@ -75,7 +75,7 @@ setupのREADME.mdを開き、鉛筆ボタンで編集します。画像ファイ
 
 - [学生用ひな形](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template)
 - [配布画像](https://github.com/tsuchiyatakahirolab/ai-data-literacy/blob/main/assets/setup/practice.png)を開き、Download raw fileで画像そのものを保存します。
-- [導入スライド](../slides/00_Course_Setup_v1.3.pptx)
+- [導入スライド](../slides/00_Course_Setup_v1.4.pptx)
 
 大学の授業ページと初回・週次フォームは、学内の授業ページから開きます。学内URLはこの公開教材には掲載しません。
 
@@ -119,3 +119,7 @@ setupのREADME.mdを開き、鉛筆ボタンで編集します。画像ファイ
 
 公式文書の画面例。Collaborators → Add peopleでtsuchiyatakahirolabを招待します。
 
+
+## v1.4を見ながら進める
+
+[導入PDF（37ページ）](../slides/00_Course_Setup_v1.4.pdf)を開き、[1つずつ進める補助手順](../docs/setup_handson_step_by_step.md)を横に置いて、保存後の確認まで進めます。

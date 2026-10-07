@@ -1,6 +1,6 @@
 # Prepare your private repository with an image and a short record
 
-Editorial draft: Codex must check the live interface and replace course links before publication. Describe email notifications only after that feature is enabled.
+Use the [current Japanese setup PDF](../../slides/00_Course_Setup_v1.4.pdf) and [step-by-step companion](../../docs/setup_handson_step_by_step.md). Course forms and notification instructions come from your university course page.
 
 ## Joining after the first class
 

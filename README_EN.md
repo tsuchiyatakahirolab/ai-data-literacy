@@ -108,3 +108,5 @@ The learning goals do not depend on a particular model. Product-specific operati
 ## Initial setup and late joining
 
 Use the [student template](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template) to create your own Private ai-learning repository. Follow the [browser setup guide](en/docs/github_onboarding_student.md), upload one image and a short record to setup, invite the instructor, then send the repository URL through the existing university registration form. Late joiners use the same guide and form. Weekly submissions use the final commit URL for that assignment. Do not put your student ID or university email in your username or public profile. Self-study readers do not need university forms.
+
+The current Japanese setup deck is [v1.4 (37 pages)](slides/00_Course_Setup_v1.4.pdf), with a [step-by-step companion in Japanese](docs/setup_handson_step_by_step.md).

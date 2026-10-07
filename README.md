@@ -13,7 +13,7 @@
 
 この教材は、特定のAIサービスや画面操作に依存しないように設計しています。授業本体は2027年度以降も使える能力を扱い、サービス固有の操作、料金、学生向け特典は `tool-guides/` と `current/` に分けています。
 
-## 導入v1.3のスライドと演習シート
+## 導入v1.4のスライドと演習シート
 
 日本語のPowerPointは、全14回に加えて、初回準備と最終課題の計16ファイルです。本文はメイリオ指定で、操作手順、依頼文、確認表、計算例を含みます。[スライド一覧](slides/README.md)から開けます。授業で投影する本文は原則24〜28 ptとし、補足や出典表示は18〜22 ptにしています。
 
@@ -117,3 +117,5 @@ Last updated: 2026-10-06
 [学生用ひな形](https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template)から自分のPrivateのai-learningを作ります。[導入手順](docs/github_onboarding_student.md)に沿って画像1枚と短い利用記録をsetupへ保存し、教員を招待して学内の既存初回登録フォームへrepository URLを送ります。第2回以降も同じ入口を使います。毎週は指定回の最後のcommit URLを既存週次フォームへ送ります。
 
 handouts/week01.mdは読む資料で、自分のweek01/README.mdが書く場所です。学籍番号・氏名・大学メールはフォームで教員に伝え、公開プロフィールやusernameへ書きません。画像だけを修正した場合、初回登録の再送は不要です。
+
+初回準備は[導入v1.4 PDF（37ページ）](slides/00_Course_Setup_v1.4.pdf)と[1つずつ進める補助手順](docs/setup_handson_step_by_step.md)を横に開いて進められます。
