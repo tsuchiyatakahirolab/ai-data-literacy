@@ -23,4 +23,4 @@ assets/icons/lucide/のアイコンは、この教材のCC BY 4.0の適用対象
 
 ## 個人のロゴ
 
-assets/branding/personal-author-logo.pngは個人の著者表示に用いるロゴです。教材本文へのCC BY 4.0の許諾対象からは除きます。教材の出典表示の方法をロゴ掲載だけに限定せず、ロゴの掲載が著者の推薦・提携を意味するものとは扱いません。
+assets/branding/personal-author-logo.pngとpersonal-author-logo-white.pngは個人の著者表示に用いるロゴです。教材本文へのCC BY 4.0の許諾対象からは除きます。教材の出典表示の方法をロゴ掲載だけに限定せず、ロゴの掲載が著者の推薦・提携を意味するものとは扱いません。

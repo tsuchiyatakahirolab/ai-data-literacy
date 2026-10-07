@@ -41,3 +41,5 @@ The 16 PowerPoint decks below are in Japanese. English course notes are availabl
 2026-10-07の導入v1.4は、37枚の構成を保って初心者向けの操作説明を補足した版です。[1つずつ進める補助手順](../docs/setup_handson_step_by_step.md)と[改訂・確認記録](../docs/SETUP_V14_REVIEW.md)を用意しました。旧導入v1.3のPPTX/PDFは、既存URLの互換性と履歴のため残しています。現行一覧の16本には旧導入を数えていません。
 
 暗い表紙のロゴは白色・透過表示に修正しました。白い下地は削除しています。[修正記録](../docs/TRANSPARENT_LOGO.md)。
+
+表紙は添付参考資料と同じ白い透過PNGを直接使い、上中央・幅480pxに揃えました。以前の色変換効果は外しています。[最新記録](../docs/REFERENCE_LOGO.md)。

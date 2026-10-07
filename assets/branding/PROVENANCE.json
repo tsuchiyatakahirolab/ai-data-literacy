@@ -16,7 +16,24 @@
   "removal_proof": false,
   "cover_backplate": false,
   "transparent_PNG_alpha_preserved": true,
-  "dark_cover_display_effect": "native PowerPoint duotone FFFFFF/FFFFFF",
+  "dark_cover_display_effect": "none; exact user-supplied white transparent PNG",
   "bright_page_display": "original black transparent PNG",
-  "display_correction_date": "2026-10-07"
+  "display_correction_date": "2026-10-07",
+  "white_logo_sha256": "8bdf8b5f158aa62fc32b2f63e90045b89fb980ae986d9eca51df1fa3fe984938",
+  "white_logo_source": "User supplied Brandeis presentation cover image; original bytes reused",
+  "white_logo_source_deck_sha256": "5d21924ad76cb83d654e280499d3fbd05870be9cae14186d550c250ed97e4c5d",
+  "cover_logo_position_css_px": [
+    400,
+    11.52,
+    480,
+    58.920629921259845
+  ],
+  "bright_page_logo_position_css_px": [
+    72,
+    9,
+    180,
+    22.1
+  ],
+  "master_branding_hidden_on_cover": true,
+  "reference_deck_modified": false
 }
