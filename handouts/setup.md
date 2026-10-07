@@ -47,9 +47,11 @@ setupのREADME.mdを開き、鉛筆ボタンで編集します。画像ファイ
 
 配布画像を使った場合なら、「practice.pngを保存した。配布画像を使った。GitHubで画像を開き、文字が読めることを確かめた」と書けます。実際に行ったことに合わせて記入し、Previewで表示を見てCommit changesで保存します。ブラウザで保存したので、別のpush操作は要りません。
 
-## 7. 教員を招待する
+## 7. 教員のアカウントを招待する
 
-自分のai-learningのSettingsを開き、Collaborators、Add peopleへ進みます。検索欄にtsuchiyatakahirolabと入力し、候補のusernameが最後まで一致することを確認して招待を送ります。アカウント全体のSettingsではなく、このリポジトリのSettingsです。
+自分のai-learningのSettingsを開き、Collaborators、Add peopleへ進みます。検索欄に授業で指定された教員のusernameを入力します。この授業では`tsuchiyatakahirolab`です。候補のusernameが最後まで一致することを確認して招待を送ります。アカウント全体のSettingsではなく、このリポジトリのSettingsです。
+
+別の授業でこの教材を使う場合は、招待先のusernameとこの案内を担当教員のアカウントへ差し替えます。
 
 この操作では、教員に授業用のリポジトリを読み書きする権限を渡します。パスワードは渡しません。招待中の表示になれば送信できています。教員の受理を待って作業を止めず、次の初回登録へ進んでください。確認のために公開へ変える必要もありません。
 
@@ -119,7 +121,7 @@ setupのREADME.mdを開き、鉛筆ボタンで編集します。画像ファイ
 
 ![招待はリポジトリのSettings](../assets/setup/screens/repo-actions-settings.png)
 
-公式文書の画面例。Collaborators → Add peopleでtsuchiyatakahirolabを招待します。
+公式文書の画面例。Collaborators → Add peopleで、授業で指定された教員のusernameを招待します（この授業：`tsuchiyatakahirolab`）。
 
 
 ## v1.4を見ながら進める

@@ -46,7 +46,9 @@ For example: I uploaded practice.png using the supplied image. I opened it on Gi
 
 ## 7. Invite the instructor
 
-Open Settings in your ai-learning repository, then Collaborators and Add people. Search for tsuchiyatakahirolab and check the full username before sending the invitation. Use repository settings, not your general account settings.
+Open Settings in your ai-learning repository, then Collaborators and Add people. Search for the instructor username specified for your course and check the full username before sending the invitation. For this course, use `tsuchiyatakahirolab`. Use repository settings, not your general account settings.
+
+When using these materials for another course, replace the invitation username in these instructions with the account of that course's instructor.
 
 This grants the instructor read and write access to this course repository. Do not share your password. A pending invitation means it has been sent. Continue to registration without waiting for individual acceptance. Do not make the repository public to allow the instructor to see it.
 
@@ -110,5 +112,5 @@ Preview the three fields, then use Commit changes.
 
 ![Invite the instructor](../../assets/setup/screens/repo-actions-settings.png)
 
-Repository Settings → Collaborators → Add people. Invite tsuchiyatakahirolab.
+Repository Settings → Collaborators → Add people. Invite the instructor username specified for your course (`tsuchiyatakahirolab` for this course).
 
