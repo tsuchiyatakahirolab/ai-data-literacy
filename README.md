@@ -13,6 +13,11 @@
 
 この教材は、特定のAIサービスや画面操作に依存しないように設計しています。授業本体は2027年度以降も使える能力を扱い、サービス固有の操作、料金、学生向け特典は `tool-guides/` と `current/` に分けています。
 
+
+## 配布用PDFと一括ダウンロード
+
+配布用に、全16本の[ノートなしPDF一覧](slides/README.md)と[全250ページのPDF](slides/AI_Data_Literacy_All_Slides.pdf)を用意しました。[教材一式ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Complete_2026-10-07.zip)には編集用PPTX、各回のPDF、演習シート、日英教材、サンプルデータ、空の学生用ひな形を同梱しています。
+
 ## 導入v1.4のスライドと演習シート
 
 日本語のPowerPointは、全14回に加えて、初回準備と最終課題の計16ファイルです。本文はメイリオ指定で、操作手順、依頼文、確認表、計算例を含みます。[スライド一覧](slides/README.md)から開けます。授業で投影する本文は原則24〜28 ptとし、補足や出典表示は18〜22 ptにしています。

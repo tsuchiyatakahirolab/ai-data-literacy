@@ -12,6 +12,11 @@ The course also teaches a second habit: **AI output is not the final authority**
 
 The stable curriculum is separated from product-specific instructions. Core lessons should remain useful as models and interfaces change, while current service information lives in `tool-guides/` and `current/`.
 
+
+## Distribution PDFs and complete download
+
+[Slide-only PDFs for all 16 Japanese decks](slides/README.md), a [250-page combined PDF](slides/AI_Data_Literacy_All_Slides.pdf), and a [complete teaching ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Complete_2026-10-07.zip) are available. The archive includes editable PPTX decks, PDFs, Japanese and English course notes, handouts, sample data, and a blank student template. The PDFs omit speaker notes and use rendered slide images; searchable and editable text remains in the PPTX.
+
 ## Learning outcomes
 
 By the end of the course, students should be able to:
