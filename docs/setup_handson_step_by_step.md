@@ -9,9 +9,9 @@
 1. 大学の授業ページを開き、右上のアカウントが大学メールか確かめます。私用Googleアカウントなら大学アカウントへ切り替えます。
 2. GitHubのアカウントがある人は[Sign in](https://github.com/login)、初めての人は[登録ページ](https://github.com/signup)を開きます。GitHubはGoogleと別のアカウントです。すでに持っている人は作り直しません。
 3. 初めての人は、大学メール・自分で決めたusername・パスワードなどを入力し、画面の案内に従って登録します。確認メールが届いたら、その案内でメールを確認します。
-4. GitHub右上のプロフィール画像 → Settings → Emailsを開きます。[メール設定へのリンク](https://github.com/settings/emails)からも開けます。既存アカウントなら「Add email address」に大学メールを入力し、Addを押して確認メールの案内を進めます。追加済みならVerified（確認済み）の表示を確認します。普段のメールをPrimaryから外す必要はありません。
+4. GitHub右上のプロフィール画像 → Settings → Emailsを開きます。[メール設定へのリンク](https://github.com/settings/emails)からも開けます。既存アカウントなら「Add email address」に大学メールを入力し、Addを押して確認メールの案内を進めます。大学メールが追加済み、またはPrimary email addressに大学メールが入っていれば再追加は不要です。Verified（確認済み）の表示を確認します。普段のメールをPrimaryから外す必要はありません。
 5. Keep my email addresses privateにチェックを入れます。学籍番号や大学メールを公開プロフィールへ書く必要はありません。
-6. GitHubにログインしたまま、右上の丸いプロフィール画像を押します。開いたメニュー上部のアカウント名がusernameです。登録時のUsername欄で決めた名前を控えます。表示名やメールとは別です。プロフィールを開いて確認する場合は、URLの`github.com/`の次にある名前と照合します。
+6. GitHubにログインしたまま、右上の丸いプロフィール画像を押し、Profile（プロフィール）を開きます。プロフィールURLの`github.com/`の次にある名前がusernameです。表示名やメールとは別です。このusernameを控え、登録時のUsername欄で決めた名前とも照合します。
 
 **次へ進める目印：** GitHubへログインでき、大学メールの確認が済み、自分のusernameが分かっています。
 

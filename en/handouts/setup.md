@@ -16,7 +16,9 @@ Check the email shown under the account icon. Switch from your personal account 
 
 New users should follow the course account guide and verify their university email. Existing users can keep their account and add and verify their university email. You do not need to put your student number, real name, or university email on your public profile.
 
-While signed in to GitHub, click the round profile picture in the upper-right corner. Read your account username at the top of the menu. This is the name you chose in the Username field when signing up, and differs from your display name and email. Write it down for the initial registration form. For a profile URL such as github.com/example-student, the username is example-student.
+If your university email is already registered, do not add it again. This also applies when it is your Primary email address; check that it is marked Verified.
+
+While signed in to GitHub, click the round profile picture in the upper-right corner and open Profile. For a profile URL such as github.com/example-student, the username is example-student. This differs from your display name and email. Write the username down for the initial registration form and compare it with the name you chose in the Username field when signing up.
 
 ## 3. Create your private repository from the template
 
