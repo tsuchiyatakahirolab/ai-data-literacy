@@ -13,7 +13,7 @@ Mark a paper or local copy, or show the cue on your own screen to your instructo
 ## 01  Sign-in and username
 
 - **Open and do:** Open Profile and read the username in its URL.
-- **Completion cue:** You can name your username. 
+- **Completion cue:** You can name your username.
 - **Return to:** [Guide A](github_hands_on.md#a-reach-your-own-private-repository)
 - [ ] Confirmed on my own screen.
 - [ ] Not confirmed / unsure how to proceed: ask for help with this item number.
@@ -21,7 +21,7 @@ Mark a paper or local copy, or show the cue on your own screen to your instructo
 ## 02  Your Private repository
 
 - **Open and do:** Open Code in your own ai-learning repository.
-- **Completion cue:** Own Owner, Private, folders present. 
+- **Completion cue:** Own Owner, Private, folders present.
 - **Return to:** [Guide A](github_hands_on.md#a-reach-your-own-private-repository)
 - [ ] Confirmed on my own screen.
 - [ ] Not confirmed / unsure how to proceed: ask for help with this item number.
@@ -41,7 +41,7 @@ Open the actual image file and separately read the short use record in setup/REA
 ## 04  Instructor invitation
 
 - **Open and do:** Settings → Collaborators: check the specified instructor.
-- **Completion cue:** Describe pending or accepted. 
+- **Completion cue:** Describe pending or accepted.
 - **Return to:** [Guide C, item 1](github_hands_on.md#c-invite-the-instructor-and-submit-a-specific-version)
 - [ ] Confirmed on my own screen.
 - [ ] Not confirmed / unsure how to proceed: ask for help with this item number.
@@ -51,7 +51,7 @@ Pending means you sent the invitation. Instructor access is checked separately a
 ## 05  Saved README
 
 - **Open and do:** Reopen this week’s README.md and read your added text.
-- **Completion cue:** Your text remains outside the editor. 
+- **Completion cue:** Your text remains outside the editor.
 - **Return to:** [Guide B](github_hands_on.md#b-edit-save-and-reopen-readme)
 - [ ] Confirmed on my own screen.
 - [ ] Not confirmed / unsure how to proceed: ask for help with this item number.
@@ -61,7 +61,7 @@ If you have not practiced saving, keep the existing headings and work, add one t
 ## 06  Files in the submitted version
 
 - **Open and do:** Latest commit → Browse files: open all required weekly files.
-- **Completion cue:** All required files are present. 
+- **Completion cue:** All required files are present.
 - **Return to:** [Guide C, items 3–5](github_hands_on.md#c-invite-the-instructor-and-submit-a-specific-version)
 - [ ] Confirmed on my own screen.
 - [ ] Not confirmed / unsure how to proceed: ask for help with this item number.
@@ -81,7 +81,7 @@ If already submitted, check the receipt. If the confirmation screen is closed, c
 ## 08  Weekly submission receipt
 
 - **Open and do:** Check the full /commit/ URL and weekly form confirmation.
-- **Completion cue:** Correct week and receipt confirmed. 
+- **Completion cue:** Correct week and receipt confirmed.
 - **Return to:** [Guide C, items 5–6](github_hands_on.md#c-invite-the-instructor-and-submit-a-specific-version)
 - [ ] Confirmed on my own screen.
 - [ ] Not confirmed / unsure how to proceed: ask for help with this item number.
