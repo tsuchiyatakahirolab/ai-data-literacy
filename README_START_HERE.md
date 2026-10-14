@@ -9,4 +9,4 @@ English: open [the English edition](en/README.md), then follow [initial setup](e
 
 The core course in each edition has 16 editable PPTX decks (250 slides with teaching notes), 16 slide-only PDFs, and one combined 250-page PDF. PDFs omit notes. Copy prompts from the handouts or PPTX. Practice data is fictional. Supply course-specific accounts, forms, deadlines, and instructor usernames before using the material with a class.
 
-The supplement adds 15 GitHub clinic slides, a slide-only PDF, and three narrated videos per language.
+The GitHub supplement has 18 pages per language: one cover, 15 action steps, and two self-check pages. See [Japanese practice](github/README.md) / [English practice](en/github/README.md). Three narrated videos and an ordered student self-check sheet are included.

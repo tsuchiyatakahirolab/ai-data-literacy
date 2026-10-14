@@ -1,6 +1,6 @@
 # English slides and distribution PDFs
 
-Supplement: [15-step GitHub clinic](GitHub_Hands_On_EN.pptx) / [slide-only PDF](GitHub_Hands_On_EN.pdf) / [practice guide](../handouts/github_hands_on.md). The original 16 decks and 250 slides are preserved.
+Supplement: [GitHub Hands-on Practice](../github/README.md) / [PPTX: cover + 15 steps + 2 self-check pages](GitHub_Hands_On_EN.pptx) / [PDF without notes](GitHub_Hands_On_EN.pdf) / [student self-check](../handouts/github_self_check.md). The original 16 decks and 250 slides are preserved.
 
 
 All 16 decks contain English slide text and English teaching notes. The PDFs contain slides only; they do not include speaker notes. PDF pages are rendered images; copyable text is in the PPTX and hands-on sheets.

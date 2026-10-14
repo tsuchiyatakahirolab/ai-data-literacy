@@ -1,10 +1,14 @@
-# Guided GitHub practice
+# GitHub Hands-on Practice
 
 Perform one action, check the completion cue on your own screen, then pause. Keep your existing repository and work.
 
 [Editable slides](../slides/GitHub_Hands_On_EN.pptx) / [slide-only PDF](../slides/GitHub_Hands_On_EN.pdf) / [three narrated, captioned videos](../../videos/github/README.md) / [complete setup guide](setup.md)
 
 The videos explain public-template and GitHub Docs screenshots. They do not show a student's Private repository or your university form. Example owners and names must be replaced with your own.
+
+
+The deck and PDF have 18 pages: one cover, 15 action steps, and two self-check pages. Finish by opening the screens for items 01–08 in the [student self-check sheet](github_self_check.md). Action numbers differ from page numbers.
+
 
 ## A. Reach your own Private repository
 
@@ -42,13 +46,9 @@ The videos explain public-template and GitHub Docs screenshots. They do not show
 
 ## Completion cues
 
-- [ ] Your own username / ai-learning, Private, and folder list.
-- [ ] The actual setup image and short record open in your repository.
-- [ ] The weekly README reopens with your saved text.
-- [ ] The specified instructor appears in the collaborator list as pending or accepted.
-- [ ] Initial registration has a form confirmation. Weekly submission separately has a commit URL containing all required files and a weekly form confirmation.
+Open the [student self-check sheet](github_self_check.md) and check items 01–08 on your own screen. Check sign-in, your repository, setup image and record, invitation, saved README, submitted version, initial registration, and weekly receipt separately. Return to the indicated step if incomplete, or ask your instructor with the item number.
 
-These cues describe your operation. Instructor access, roster matching, batch-check results, and grades are separate. If stuck, report the step and visible error without sharing passwords or sign-in codes. Keep existing work. Self-study readers can omit university registration, invitations, and forms.
+These cues check your operations, not instructor access, roster matching, batch-check results, or grades. If already submitted, check the receipt; ask before sending again if uncertain.
 
 Public-template history screenshots were captured on 2026-10-14. Existing GitHub Docs screenshots were retrieved on 2026-10-06; their original capture dates are unknown. The procedure was checked again on 2026-10-14. See [image provenance](../../assets/github-handson/SOURCES.json).
 

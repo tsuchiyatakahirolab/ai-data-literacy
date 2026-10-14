@@ -1,6 +1,6 @@
 # 授業スライドと配布用PDF
 
-補習：[GitHub操作15枚](GitHub_Hands_On_JA.pptx)／[ノートなしPDF](GitHub_Hands_On_JA.pdf)／[実習手順](../handouts/github_hands_on.md)。既存16本・250枚を補う追加教材です。
+補習：[GitHub操作補習教材](../github/README.md)／[表紙＋操作15枚＋自己確認2枚のPPTX](GitHub_Hands_On_JA.pptx)／[ノートなしPDF](GitHub_Hands_On_JA.pdf)／[学生用チェックシート](../handouts/github_self_check.md)。
 
 
 初回準備・全14回・最終課題の計16本、250ページです。教員の編集・投影にはPPTX、学生の閲覧にはノートなしPDFを使えます。

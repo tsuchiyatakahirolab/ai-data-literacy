@@ -9,3 +9,7 @@
 ## 2026-10-14
 
 Added Japanese and English guided GitHub practice, 15-step supplemental decks and slide-only PDFs, three narrated and captioned videos per language, and a classroom plan with completion checks. Existing course forms, grading policy, and original course slides are preserved.
+
+### GitHub practice cover and ordered self-check
+
+Added an independent Japanese/English GitHub practice entry, covers, two final self-check pages, and eight ordered checks with return steps. The 15 action steps and existing videos remain available.

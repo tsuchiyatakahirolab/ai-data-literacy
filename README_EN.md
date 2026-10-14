@@ -1,6 +1,6 @@
 <a href="https://tsuchiyatakahiro.com"><img src="assets/branding/personal-author-logo.png" width="180" alt="TSUCHIYA TAKAHIRO"></a>
 
-New to GitHub? Follow the [guided clinic](en/handouts/github_hands_on.md), [short narrated videos](videos/github/README.md), and [instructor teaching plan](en/docs/github_clinic.md).
+Use the independent [GitHub Hands-on Practice](en/github/README.md), including a cover, videos, and an ordered [student self-check](en/handouts/github_self_check.md).
 
 
 # AI and Data Literacy for University Students

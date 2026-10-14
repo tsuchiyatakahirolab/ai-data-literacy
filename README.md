@@ -1,6 +1,6 @@
 <a href="https://tsuchiyatakahiro.com"><img src="assets/branding/personal-author-logo.png" width="180" alt="TSUCHIYA TAKAHIRO"></a>
 
-GitHubで迷った学生向けに、[操作を一つずつ確認する補習](handouts/github_hands_on.md)、[短い音声・字幕付き動画](videos/github/README.md)、[教員用の進行メモ](instructor/github_clinic.md)を追加しました。
+GitHubで迷った学生には、独立した[GitHub操作補習教材](github/README.md)を案内できます。表紙付きスライド・PDF、説明動画、手順付きの[学生用自己確認](handouts/github_self_check.md)を公開しています。
 
 
 # 大学生のためのAI・データリテラシー

@@ -20,3 +20,5 @@ MP4を直接開けないブラウザでは、ファイルをダウンロード�
 教員は[30分補習の進行メモ](../../instructor/github_clinic.md)／[English teaching plan](../../en/docs/github_clinic.md)を使い、各操作で学生を待ってください。既存の課題・締切・フォームを使います。保存、招待、フォーム受付、教員による確認を分けます。
 
 画像の出典：[新しい公開画面の台帳](../../assets/github-handson/SOURCES.json)、[GitHub Docsの既存画面例](../../assets/setup/screens/ATTRIBUTION.md)。教材の著者と[ライセンス](../../LICENSE.md)を保持してください。
+
+最後に学生本人が[日本語の自己確認01〜08](../../handouts/github_self_check.md)／[English self-check 01–08](../../en/handouts/github_self_check.md)を順に開いて確認します。The covered deck adds two self-check pages after the same 15 actions shown in these videos.
