@@ -1,5 +1,8 @@
 # 変更を確かめてGitHubへ残す
 
+先に[GitHub操作補習](github_hands_on.md)で「自分のPrivate保存先・READMEの保存・教員招待・commit URL」を確認できます。
+
+
 対応スライド：第3回
 
 ## この回で行うこと

@@ -1,5 +1,8 @@
 # 画像を保存して、課題の提出先を準備する
 
+先に[GitHub操作補習](github_hands_on.md)で「自分のPrivate保存先・READMEの保存・教員招待・commit URL」を確認できます。
+
+
 
 ## 第2回以降に参加する人も、ここから進める
 

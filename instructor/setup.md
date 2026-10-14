@@ -1,5 +1,8 @@
 # 初回準備：教員用進行メモ
 
+操作に不安がある学生がいる場合は、[30分のGitHub操作補習](github_clinic.md)で各段階を確認してから進めます。
+
+
 学生向けの[37ページの準備スライド](../slides/00_Course_Setup.pptx)と[1つずつ進める手順](../docs/setup_handson_step_by_step.md)に対応します。授業前に[授業に合わせる項目](../docs/instructor_adaptation.md)を確認してください。
 
 ## 進める順番

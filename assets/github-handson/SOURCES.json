@@ -1,0 +1,47 @@
+[
+  {
+    "file": "history-entry.png",
+    "source_url": "https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template",
+    "captured_on": "2026-10-14",
+    "source_kind": "PUBLIC_TEMPLATE_SCREENSHOT",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "6acd9059ff89da27296d28696ef93bff624af687dcdb56415e00bcf70675b00f"
+  },
+  {
+    "file": "history-button.png",
+    "source_url": "https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template",
+    "captured_on": "2026-10-14",
+    "source_kind": "PUBLIC_TEMPLATE_SCREENSHOT",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "3e07613a3e91ba6df7cd6acca3e182241d55ecf483e43d0c1595a2ed6a220cb2"
+  },
+  {
+    "file": "commit-list.png",
+    "source_url": "https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template/commits/main/",
+    "captured_on": "2026-10-14",
+    "source_kind": "PUBLIC_TEMPLATE_SCREENSHOT",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "54acf786ab02f5d2cfb8f162ade7559f83379b46cd40163709dcbfccdfde8959"
+  },
+  {
+    "file": "commit-detail.png",
+    "source_url": "https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template/commit/b551ef4cb2fd370936bfe3b9dbdc1defcff80b7b",
+    "captured_on": "2026-10-14",
+    "source_kind": "PUBLIC_TEMPLATE_SCREENSHOT",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "7cb40f4aa52a9c5a068ef604851cc583df951a394649f3885772d98390b28d6f"
+  },
+  {
+    "file": "browse-files-button.png",
+    "source_url": "https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template/commit/b551ef4cb2fd370936bfe3b9dbdc1defcff80b7b",
+    "captured_on": "2026-10-14",
+    "source_kind": "PUBLIC_TEMPLATE_SCREENSHOT",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "2b937e4d23921ac6a51785b236063e06cd942c862622dea23ac666af7a3d102a"
+  }
+]

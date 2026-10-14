@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:06,706
+Open README.md in the week folder chosen by your instructor,
+in your own ai-learning.
+
+2
+00:00:06,706 --> 00:00:13,254
+Read the teaching material in the instructor repository and
+write in your own file.
+
+3
+00:00:13,254 --> 00:00:14,596
+Click the pencil.
+
+4
+00:00:14,596 --> 00:00:18,225
+If it is missing, check ownership and sign-in.
+
+5
+00:00:18,225 --> 00:00:23,511
+If you are asked to fork or propose changes, stop and ask
+for help.
+
+6
+00:00:23,511 --> 00:00:26,511
+Pause here and check your own screen.
+
+7
+00:00:26,511 --> 00:00:29,307
+Keep the headings and existing work.
+
+8
+00:00:29,307 --> 00:00:35,985
+Add one sentence about a check you actually performed, under
+your own checking record.
+
+9
+00:00:35,985 --> 00:00:39,169
+Do not claim a check you did not perform.
+
+10
+00:00:39,169 --> 00:00:41,965
+Text in the editor is not yet saved.
+
+11
+00:00:41,965 --> 00:00:45,693
+Pause and write your sentence in your own words.
+
+12
+00:00:45,693 --> 00:00:48,693
+Pause here and check your own screen.
+
+13
+00:00:48,693 --> 00:00:53,123
+Choose Preview and check how the text appears to a reader.
+
+14
+00:00:53,123 --> 00:00:56,789
+Confirm your sentence and headings are readable.
+
+15
+00:00:56,789 --> 00:00:59,844
+Return to Edit if you need a correction.
+
+16
+00:00:59,844 --> 00:01:04,350
+Preview checks the appearance; it does not save the change.
+
+17
+00:01:04,350 --> 00:01:05,954
+Pause and inspect it.
+
+18
+00:01:05,954 --> 00:01:08,954
+Pause here and check your own screen.
+
+19
+00:01:08,954 --> 00:01:12,481
+Click Commit changes to open the save dialog.
+
+20
+00:01:12,481 --> 00:01:16,478
+Enter a brief message, such as Add checking record.
+
+21
+00:01:16,478 --> 00:01:24,785
+In your own course repository, choose Commit directly to the
+main branch and confirm with the final Commit
+
+22
+00:01:24,785 --> 00:01:25,961
+changes button.
+
+23
+00:01:25,961 --> 00:01:29,879
+Reopen README to check that your sentence remains.
+
+24
+00:01:29,879 --> 00:01:32,858
+Browser saving needs no separate push.
+
+25
+00:01:32,858 --> 00:01:34,895
+Pause and reopen the file.
+
+26
+00:01:34,895 --> 00:01:37,895
+Pause here and check your own screen.

@@ -1,5 +1,8 @@
 <a href="https://tsuchiyatakahiro.com"><img src="../assets/branding/personal-author-logo.png" width="180" alt="TSUCHIYA TAKAHIRO"></a>
 
+For GitHub support, start with the [guided clinic](handouts/github_hands_on.md) and [three short videos](../videos/github/README.md).
+
+
 # AI and Data Literacy — English edition
 
 Start with the [browser setup guide](handouts/setup.md), then [Week 01](handouts/week01.md). No programming or command-line Git is required. Independent readers can follow the [self-study guide](docs/self_study.md) without university forms.

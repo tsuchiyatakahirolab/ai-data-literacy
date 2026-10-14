@@ -1,5 +1,8 @@
 # AI and Data Literacy: my learning record
 
+If stuck, follow the [guided GitHub practice](https://github.com/tsuchiyatakahirolab/ai-data-literacy/blob/main/en/handouts/github_hands_on.md). Check repository creation, saving, invitation, and form receipt separately.
+
+
 Use **Use this template** to create your own **Private** `ai-learning` repository. Keep the same repository if you have already created it or join later.
 
 Follow the course’s setup guide: upload one image to `setup`, write the three fields in `setup/README.md`, invite the instructor account specified for your course, and submit your **repository URL** through the existing initial registration form.

@@ -1,5 +1,8 @@
 # Can you explain what you changed?
 
+If GitHub operations are difficult, use the [guided practice](github_hands_on.md) and [short videos](../../videos/github/README.md) first.
+
+
 Read this sheet alongside the [English slides](../slides/Week03_GitHub_Workflow_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
 [Lesson and requirements](../core/week03.md)

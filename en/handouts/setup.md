@@ -1,5 +1,8 @@
 # Prepare your private repository with an image and a short record
 
+If GitHub operations are difficult, use the [guided practice](github_hands_on.md) and [short videos](../../videos/github/README.md) first.
+
+
 Use the [English setup slides](../slides/00_Course_Setup_EN.pptx) and the course page specified by your instructor.
 
 ## Joining after the first class

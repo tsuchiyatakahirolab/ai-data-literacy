@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:04,231
+Look at the name to the left of the slash at the top.
+
+2
+00:00:04,231 --> 00:00:07,025
+It identifies the repository owner.
+
+3
+00:00:07,025 --> 00:00:12,454
+Opening the instructor material does not create your own
+repository.
+
+4
+00:00:12,454 --> 00:00:16,206
+If you already own ai-learning, continue there.
+
+5
+00:00:16,206 --> 00:00:18,282
+Pause and check the owner.
+
+6
+00:00:18,282 --> 00:00:21,282
+Pause here and check your own screen.
+
+7
+00:00:21,282 --> 00:00:27,200
+GitHub is a separate account from your university page or
+Google account.
+
+8
+00:00:27,200 --> 00:00:29,389
+Keep your existing account.
+
+9
+00:00:29,389 --> 00:00:33,605
+New users sign up and follow the verification email.
+
+10
+00:00:33,605 --> 00:00:37,659
+Open Profile and note the username in its address.
+
+11
+00:00:37,659 --> 00:00:41,145
+Enter passwords and sign-in codes yourself.
+
+12
+00:00:41,145 --> 00:00:43,253
+Pause to finish this step.
+
+13
+00:00:43,253 --> 00:00:46,253
+Pause here and check your own screen.
+
+14
+00:00:46,253 --> 00:00:48,974
+Open the course student template.
+
+15
+00:00:48,974 --> 00:00:53,510
+Choose Use this template, then Create a new repository.
+
+16
+00:00:53,510 --> 00:00:58,541
+A star or a browser bookmark does not create your
+repository.
+
+17
+00:00:58,541 --> 00:01:03,076
+If the button is missing, check that you are signed in.
+
+18
+00:01:03,076 --> 00:01:07,530
+Skip creation if you already have your own repository.
+
+19
+00:01:07,530 --> 00:01:09,509
+Pause before continuing.
+
+20
+00:01:09,509 --> 00:01:12,509
+Pause here and check your own screen.
+
+21
+00:01:12,509 --> 00:01:18,582
+Choose your own account as Owner, enter ai-learning, and
+select Private.
+
+22
+00:01:18,582 --> 00:01:25,076
+Use Create repository from template, or the equivalent
+creation button shown.
+
+23
+00:01:25,076 --> 00:01:30,390
+The image contains example values; do not copy github or
+hello.
+
+24
+00:01:30,390 --> 00:01:35,282
+After creation, check your username and the Private label.
+
+25
+00:01:35,282 --> 00:01:36,210
+Pause here.
+
+26
+00:01:36,210 --> 00:01:39,210
+Pause here and check your own screen.
+
+27
+00:01:39,210 --> 00:01:44,552
+Open Code in your own ai-learning and find setup and the
+week folders.
+
+28
+00:01:44,552 --> 00:01:49,742
+If they are missing, ask your instructor before recreating
+anything.
+
+29
+00:01:49,742 --> 00:01:51,497
+Preserve existing work.
+
+30
+00:01:51,497 --> 00:01:59,205
+The repository address is used for initial registration,
+which is separate from invitation and weekly
+
+31
+00:01:59,205 --> 00:02:00,045
+submission.
+
+32
+00:02:00,045 --> 00:02:02,716
+Pause and bookmark your repository.
+
+33
+00:02:02,716 --> 00:02:05,716
+Pause here and check your own screen.

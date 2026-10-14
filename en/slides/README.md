@@ -1,5 +1,8 @@
 # English slides and distribution PDFs
 
+Supplement: [15-step GitHub clinic](GitHub_Hands_On_EN.pptx) / [slide-only PDF](GitHub_Hands_On_EN.pdf) / [practice guide](../handouts/github_hands_on.md). The original 16 decks and 250 slides are preserved.
+
+
 All 16 decks contain English slide text and English teaching notes. The PDFs contain slides only; they do not include speaker notes. PDF pages are rendered images; copyable text is in the PPTX and hands-on sheets.
 
 [All 250 slides — PDF](AI_Data_Literacy_All_Slides_EN.pdf) · [English teaching ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials_EN.zip) · [Japanese slides](../../slides/README.md)

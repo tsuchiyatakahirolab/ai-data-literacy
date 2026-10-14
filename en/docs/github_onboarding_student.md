@@ -1,5 +1,8 @@
 # Prepare your private repository with an image and a short record
 
+Use the [guided GitHub clinic](../handouts/github_hands_on.md) with your instructor, checking one action at a time.
+
+
 Use the [English setup PDF](../slides/00_Course_Setup_EN.pdf) and [step-by-step companion](../handouts/setup.md). Course forms and notification instructions come from your university course page.
 
 ## Joining after the first class

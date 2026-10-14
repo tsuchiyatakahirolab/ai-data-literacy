@@ -1,5 +1,8 @@
 # 授業スライドと配布用PDF
 
+補習：[GitHub操作15枚](GitHub_Hands_On_JA.pptx)／[ノートなしPDF](GitHub_Hands_On_JA.pdf)／[実習手順](../handouts/github_hands_on.md)。既存16本・250枚を補う追加教材です。
+
+
 初回準備・全14回・最終課題の計16本、250ページです。教員の編集・投影にはPPTX、学生の閲覧にはノートなしPDFを使えます。
 
 [全250ページのPDF](AI_Data_Literacy_All_Slides.pdf) ／ [教材一式ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials.zip)

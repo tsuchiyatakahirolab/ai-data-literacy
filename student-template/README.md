@@ -1,5 +1,8 @@
 # AI・データリテラシーの提出用リポジトリ
 
+GitHubの操作で止まったら、[一つずつ練習する手順](https://github.com/tsuchiyatakahirolab/ai-data-literacy/blob/main/handouts/github_hands_on.md)を開きます。自分の保存先・保存・教員招待・フォーム提出を別々に確認します。
+
+
 このひな形は、課題の成果物と短いAI利用記録を保存するためのものです。授業ページの案内に従って、Use this templateから自分のPrivateリポジトリを作ります。既に作成した人は同じ保存先を使ってください。
 
 ## 最初に行うこと
