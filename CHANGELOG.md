@@ -13,3 +13,7 @@ Added Japanese and English guided GitHub practice, 15-step supplemental decks an
 ### GitHub practice cover and ordered self-check
 
 Added an independent Japanese/English GitHub practice entry, covers, two final self-check pages, and eight ordered checks with return steps. The 15 action steps and existing videos remain available.
+
+### GitHub video narration
+
+Replaced narration in all six Japanese/English GitHub practice videos with the author’s cloned TTS voice. Adjusted subtitle and slide timings to the new audio, preserving the practice instructions, screen examples, and three-second action pauses. Existing forms and course assessment remain unchanged.
