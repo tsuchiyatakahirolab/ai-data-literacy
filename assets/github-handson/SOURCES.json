@@ -43,5 +43,32 @@
     "student_account": false,
     "student_personal_data": false,
     "sha256": "2b937e4d23921ac6a51785b236063e06cd942c862622dea23ac666af7a3d102a"
+  },
+  {
+    "file": "week-submission-history-entry.png",
+    "source_url": "https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template",
+    "source_kind": "PUBLIC_TEMPLATE_SCREENSHOT",
+    "captured_on": "2026-11-24",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "e14699d7c5340bd5207be3d9d4fca30a004050734cd33723f96ef9cad522a9b1"
+  },
+  {
+    "file": "week-submission-commit-list.png",
+    "source_url": "https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template/commits/main/",
+    "source_kind": "PUBLIC_TEMPLATE_SCREENSHOT",
+    "captured_on": "2026-11-24",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "ad2fb74b66388e1af5ce19d36112b42e27cffec50b3ac010e5cfe05c3566552f"
+  },
+  {
+    "file": "week-submission-commit-detail.png",
+    "source_url": "https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template/commit/ff6e9de199992579f6bea04277242db6e7e3c3bc",
+    "source_kind": "PUBLIC_TEMPLATE_SCREENSHOT",
+    "captured_on": "2026-11-24",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "f4ecebe8d6c9197c9dfe96ee0021863b49e1f803098d6b638a3626cc380af36a"
   }
 ]

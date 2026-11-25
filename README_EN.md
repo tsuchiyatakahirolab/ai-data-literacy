@@ -18,7 +18,7 @@ The stable curriculum is separated from product-specific instructions. Core less
 
 ## Distribution PDFs and complete download
 
-[English slides and slide-only PDFs](en/slides/README.md), [all 250 English slides in one PDF](en/slides/AI_Data_Literacy_All_Slides_EN.pdf), an [English teaching ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials_EN.zip), [Japanese slides and PDFs](slides/README.md), and a [complete bilingual teaching ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials.zip) are available. The English archive contains the English materials and shared setup images. The bilingual archive also includes the Japanese materials. Both provide editable PPTX decks, slide-only PDFs, course notes, hands-on sheets, sample data, and a blank student template. The PDFs omit speaker notes and use rendered slide images; searchable and editable text remains in the PPTX.
+[English slides and slide-only PDFs](en/slides/README.md), [all 250 English slides in one PDF](en/slides/AI_Data_Literacy_All_Slides_EN.pdf), an [English teaching ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials_EN.zip), [Japanese slides and PDFs](slides/README.md), and a [complete bilingual teaching ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials.zip) are available. The English archive contains the English materials and shared setup images. The bilingual archive also includes the Japanese materials. Both provide editable PPTX decks, slide-only PDFs, course notes, hands-on sheets, sample data, and a blank student template. The PDFs omit speaker notes. Use the PPTX or hands-on sheets to copy exercise prompts.
 
 ## Learning outcomes
 
@@ -112,7 +112,7 @@ Last updated: 2026-10-07
 
 ## Slides and hands-on sheets
 
-Both language editions contain 14 weekly PowerPoint decks, a setup deck, and a final-project deck: 250 slides per language. Text is set to Meiryo, with editable diagrams and tables. English decks include English teaching notes. The slides and hands-on sheets provide copyable prompts, concrete actions, checks, and submission steps. English exercise materials and a blank student template are in `en/`.
+Both language editions contain 14 weekly PowerPoint decks, a setup deck, and a final-project deck: 250 slides in English and 268 slides in Japanese. Text is set to Meiryo, with editable diagrams and tables. English decks include English teaching notes. The slides and hands-on sheets provide copyable prompts, concrete actions, checks, and submission steps. English exercise materials and a blank student template are in `en/`.
 
 See [the English slide index](en/slides/README.md). Instructors should run basic GitHub setup in the opening session, before the first weekly submission. Week 3 then develops editing, change review, and commit-based submission. The default workflow uses the browser; GitHub Desktop is optional. No paid AI plan or public student repository is required.
 

@@ -19,7 +19,7 @@ GitHubで迷った学生には、独立した[GitHub操作補習教材](github/R
 
 ## 配布用PDFと一括ダウンロード
 
-配布用に、全16本の[ノートなしPDF一覧](slides/README.md)と[全250ページのPDF](slides/AI_Data_Literacy_All_Slides.pdf)を用意しました。[教材一式ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials.zip)には編集用PPTX、各回のPDF、演習シート、日英教材、サンプルデータ、空の学生用ひな形を同梱しています。
+配布用に、全16本の[ノートなしPDF一覧](slides/README.md)と[全268ページのPDF](slides/AI_Data_Literacy_All_Slides.pdf)を用意しました。[教材一式ZIP](https://raw.githubusercontent.com/tsuchiyatakahirolab/ai-data-literacy/main/downloads/AI_Data_Literacy_Materials.zip)には編集用PPTX、各回のPDF、演習シート、日英教材、サンプルデータ、空の学生用ひな形を同梱しています。
 
 ## 初回準備のスライドと演習シート
 
