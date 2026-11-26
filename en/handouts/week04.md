@@ -1,4 +1,4 @@
-# Where is the answer in the source?
+# Check AI's answer against the source
 
 Read this sheet alongside the [English slides](../slides/Week04_Read_Documents_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
@@ -12,7 +12,7 @@ Read this sheet alongside the [English slides](../slides/Week04_Read_Documents_E
 
 ## Follow the slides
 
-### 2. Answers from one source document
+### 2. Read a source and organize its facts
 
 01
 
@@ -28,22 +28,17 @@ Ask for the date, venue and items to bring.
 
 03
 
-Check the original document.
+Compare the answer with the original
 
 Mark information absent from the source as unknown.
 
-### 3. A fictional workshop notice
+### 3. Read the fictional workshop notice
 
-AI and Data Literacy Workshop  
-  
-October 15, 2026    13:30-15:00  
-Room 402, Building 4 / 40 places / Free  
-Registration deadline: October 10, 2026  
-Bring: Laptop and university account
+Open the supplied sample_event_notice.pdf. Find the date, time and venue, then read what participants need to bring. Keep the PDF open so you can compare AI’s answer with the original.
 
-The dates are for this exercise. This is a fictional event.
+![Detail from the supplied sample_event_notice.pdf, a fictional notice.](../../assets/github-handson/en-week-event-notice-detail.png)
 
-### 4. Giving AI a file
+### 4. Attach the document to your AI chat
 
 01
 
@@ -53,7 +48,7 @@ Use sample_event_notice.pdf.
 
 02
 
-Choose it with the AI's attachment control.
+Use the attach button to select the file.
 
 Wait for the upload to finish.
 
@@ -65,7 +60,7 @@ If attachments are unavailable, paste the corresponding .md text.
 
 This is a short source. Pasting its text lets you do the same exercise.
 
-### 5. 1. Information for participants
+### 5. 1. Organize information for participants
 
 Copy this prompt, then add the specified source material:
 
@@ -77,7 +72,7 @@ For missing information, write Not stated.
 
 Check the date, time and room number against the original, one item at a time.
 
-### 6. Checking against the original
+### 6. Compare AI's answer with the original
 
 | Item | Source content | Your own check |
 | --- | --- | --- |
@@ -87,7 +82,7 @@ Check the date, time and room number against the original, one item at a time.
 
 Use this table for checking. Compare AI's actual output before marking a match.
 
-### 7. 2. Asking about missing information
+### 7. 2. Ask about a detail the source omits
 
 Copy this prompt, then add the specified source material:
 
@@ -98,7 +93,7 @@ Answer only what the document supports.
 
 No information about sockets does not mean there are no sockets.
 
-### 8. Keeping unknowns clear
+### 8. Keep missing information marked as unknown
 
 Supported by the source
 
@@ -113,15 +108,11 @@ There are no sockets.
 Or:  
 Every seat has a socket.
 
-### 9. Checking answers about an image
+### 9. Check how AI read the image
 
-Was any text misread?  
-Do table headings match their values?  
-  
-If AI cannot read a part, enlarge  
-the original image and check it yourself.
+Did AI read the text correctly? Do the headings match the values in the table? Enlarge the original image to check hard-to-read text.
 
-### 10. A correction grounded in the source
+### 10. Correct AI's answer using the source
 
 Copy this prompt, then add the specified source material:
 
@@ -133,9 +124,9 @@ Check whether the other entries match the source too.
 
 Use this request if there is an error. A correct result needs no correction.
 
-### 11. Finishing this week's task
+### 11. Check the work you completed
 
-I made a table of the date, venue and items to bring.
+I made a table of the date, time, venue and what to bring.
 
 I checked every item against the original.
 
@@ -156,29 +147,39 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 13. Submitting the saved version
+### 13. Save your README edit
 
-01
+1. Open your own private repository and select `week04/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 14. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 15. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 04.
+### 16. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week04/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 04** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 14. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
+
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 17. Before you submit
 
 I recorded where I checked in the source.
 

@@ -1,4 +1,4 @@
-# What can you ask AI to do?
+# Try three ways to use AI
 
 Read this sheet alongside the [English slides](../slides/Week01_AI_Landscape_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
@@ -10,9 +10,9 @@ Read this sheet alongside the [English slides](../slides/Week01_AI_Landscape_EN.
 
 ## Follow the slides
 
-### 2. What you will take away
+### 2. What you will make today
 
-Three uses of AI
+Three AI tasks
 
 Try three tasks  
 with the same AI.
@@ -24,10 +24,9 @@ you verified yourself.
 
 Your first submission
 
-Save a short record  
-on GitHub.
+Save on GitHub. Submit the commit.
 
-### 3. AI capabilities
+### 3. What AI can do
 
 Talk and explain
 
@@ -43,13 +42,11 @@ Plan a task
 
 One AI may offer several capabilities. Availability depends on your account and environment.
 
-### 4. Services and capabilities
+### 4. AI services and what they can do
 
 Choose a service
 
-Open an AI you can use,  
-such as Gemini or ChatGPT.  
-One service is enough.
+Open an AI service. Use it for all three tasks.
 
 Choose a useful capability
 
@@ -57,7 +54,7 @@ Ask for an explanation.
 Rewrite the same text.  
 Organize steps or constraints.
 
-### 5. Preparing for the exercise
+### 5. Get ready for the exercise
 
 01
 
@@ -77,7 +74,7 @@ Open the handout.
 
 Copy the prompts from en/handouts/week01.md.
 
-### 6. 1. Asking for an explanation
+### 6. 1. Ask AI to explain a term
 
 Copy this prompt, then add the specified source material:
 
@@ -89,7 +86,7 @@ in about 150 characters.
 
 Check whether you can explain the example in your own words.
 
-### 7. 2. Rewriting the same explanation
+### 7. 2. Rewrite the explanation for a new reader
 
 Copy this prompt, then add the specified source material:
 
@@ -98,9 +95,9 @@ Rewrite that explanation for a primary-school student.
 Keep the meaning of the numbers unchanged.
 ```
 
-Compare what changed and what stayed the same.
+Compare the wording and numbers with the original explanation.
 
-### 8. 3. Planning the time
+### 8. 3. Plan the order and time for each task
 
 Copy this prompt, then add the specified source material:
 
@@ -113,7 +110,7 @@ The total must be 30 minutes.
 
 Add the times yourself and check that they total 30 minutes.
 
-### 9. A record of what you checked
+### 9. Record what you checked
 
 Too little detail
 
@@ -126,15 +123,11 @@ I added the suggested times.
 10 + 15 + 5 = 30 minutes.  
 No change was needed.
 
-### 10. Checking after AI answers
+### 10. Check the AI response yourself
 
-Can you explain the idea yourself?  
-Does the plan meet the constraints?  
-  
-Today, check at least one part  
-of the result yourself.
+Can you explain the idea in your own words? Does the schedule add up to the required time? Check at least one result yourself.
 
-### 11. Working with available capabilities
+### 11. If a feature is unavailable
 
 No voice input
 
@@ -143,14 +136,11 @@ as text.
 
 No attachments
 
-Use a short text  
-conversation for the task.
+Type a prompt and continue.
 
 Usage limit reached
 
-Check the result you have.  
-Record the limitation  
-in your notes.
+Check your result. Record the feature you could not use.
 
 ### 12. Your work and your checks
 
@@ -165,29 +155,39 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 13. Submitting the saved version
+### 13. Save your README edit
 
-01
+1. Open your own private repository and select `week01/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 14. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 15. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 01.
+### 16. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week01/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 01** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 14. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
+
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 17. Before you submit
 
 I described the results of three AI capabilities.
 

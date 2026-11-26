@@ -10,19 +10,15 @@ Read this sheet alongside the [English slides](../slides/Week12_Learn_with_AI_EN
 
 ## Follow the slides
 
-### 2. Different roles for the same AI
+### 2. Use AI as a practice partner
 
 Getting only the answer
 
-Paste the question.  
-Read the answer.  
-Submit it unchanged.
+Reading an answer alone doesn't show whether you understand it.
 
 A practice partner
 
-Ask for an explanation.  
-Try questions with answers hidden.  
-Answer yourself and check your reasons.
+Ask for questions with answers hidden. Answer and check your reasoning.
 
 ### 3. Practicing correlation and causation
 
@@ -57,7 +53,7 @@ State that it illustrates the idea.
 
 After reading, explain the difference in one sentence yourself.
 
-### 5. Another explanation for a fictional example
+### 5. Think of another reason for the same pattern
 
 On hot days, ice cream sales are high.  
 Swimming pools also have more visitors.  
@@ -67,7 +63,7 @@ more people to visit the pool?
 
 Fictional example for reasoning practice. This is not observed data.
 
-### 6. 2. Three questions with answers hidden
+### 6. 2. Answer before seeing the key
 
 Copy this prompt, then add the specified source material:
 
@@ -80,7 +76,7 @@ the correct answer or explanation.
 
 If you get stuck, ask for a hint before asking for the answer.
 
-### 7. 3. Giving reasons for your answer
+### 7. 3. Explain how you reached your answer
 
 01
 
@@ -92,7 +88,7 @@ If you cannot decide, explain why.
 
 Think of one alternative explanation.
 
-Could another factor affect both things?
+Identify a factor that could affect both variables.
 
 03
 
@@ -110,11 +106,9 @@ or only guess the option?
 
 AI says incorrect
 
-What difference did it identify?  
-Does the question support that?  
-Does it match the course definition?
+What difference did it identify? Does the question support it? Does it match the definition?
 
-### 9. 4. Asking about an unclear point
+### 9. 4. Ask AI to explain a point that is still unclear
 
 Copy this prompt, then add the specified source material:
 
@@ -126,15 +120,11 @@ Then give me one similar practice question.
 
 If you can explain it all, make another example yourself and check it.
 
-### 10. A record of reasoning and checking
+### 10. Record your reasoning and checks
 
-Record how you reasoned and checked,  
-rather than just your score.  
-  
-If your answers are correct,  
-there is no need to invent errors or retries.
+Record your reasoning and what you verified in the course material. If your answer was correct, keep a record of the check.
 
-### 11. Your work and your checks
+### 11. Save your work and your checks
 
 week12/
 
@@ -147,31 +137,41 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 12. Submitting the saved version
+### 12. Save your README edit
 
-01
+1. Open your own private repository and select `week12/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 13. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 14. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 12.
+### 15. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week12/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 12** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 13. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
 
-I recorded the reasons I thought through myself.
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 16. Before you submit
+
+I explained my own reasoning.
 
 I compared AI's explanation with the course material.
 

@@ -70,5 +70,56 @@
     "student_account": false,
     "student_personal_data": false,
     "sha256": "f4ecebe8d6c9197c9dfe96ee0021863b49e1f803098d6b638a3626cc380af36a"
+  },
+  {
+    "file": "en-week-history-entry.png",
+    "source_url": "https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template-en",
+    "captured_on": "2026-11-26",
+    "source_kind": "PUBLIC_TEMPLATE_SCREENSHOT",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "da25292ae525d74259ffc93a34178e4ea434ef8e533b2389938b3a04d2c68605"
+  },
+  {
+    "file": "en-week-commit-list.png",
+    "source_url": "https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template-en/commits/main/",
+    "captured_on": "2026-11-26",
+    "source_kind": "PUBLIC_TEMPLATE_SCREENSHOT",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "43a9cc5f435a27ee4cd34f8e15f4ccff20972289c166abba210e57383696b93f"
+  },
+  {
+    "file": "en-week-commit-detail.png",
+    "source_url": "https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template-en/commit/3967092a90e3ace7f7c47113ccdc5b2916e973bb",
+    "captured_on": "2026-11-26",
+    "source_kind": "PUBLIC_TEMPLATE_SCREENSHOT",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "ca5a2ccb3e67bd8d6ce504b36e1b20f2d98d74e77e842867c70ec9a70faf5f09"
+  },
+  {
+    "file": "en-week-week03-folder.png",
+    "source_url": "https://github.com/tsuchiyatakahirolab/ai-data-literacy-student-template-en/tree/main/week03",
+    "captured_on": "2026-11-26",
+    "source_kind": "PUBLIC_TEMPLATE_SCREENSHOT",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "4589c2ed2b0e3d7ab6d919ad579ef9aef9b1d630b02bf64ee4bf1c22a36da947"
+  },
+  {
+    "file": "en-week-email-addition.png",
+    "source_url": "https://docs.github.com/en/account-and-profile/how-tos/email-preferences/adding-an-email-address-to-your-github-account",
+    "captured_on": "2026-11-26",
+    "source_kind": "OFFICIAL_DOCUMENTATION_PAGE_SCREENSHOT",
+    "student_account": false,
+    "student_personal_data": false,
+    "sha256": "4452a424f7d27f14650a61d4cfa2bf309cca9e57844f0d475e15aa573cfa95ea"
+  },
+  {
+    "file": "en-week-event-notice-detail.png",
+    "source_file": "en/assets/week04/sample_event_notice.pdf",
+    "source_kind": "CROPPED_COURSE_EXERCISE_PDF",
+    "sha256": "ae5919a18fa7d3bebe8b7765fa3dadccf429f03fac437007cf350c1391f2bebc"
   }
 ]

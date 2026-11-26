@@ -1,4 +1,4 @@
-# Does the plan meet the conditions?
+# Check an AI-assisted plan against its requirements
 
 Read this sheet alongside the [English slides](../slides/Week13_Plan_and_Check_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
@@ -11,15 +11,11 @@ Read this sheet alongside the [English slides](../slides/Week13_Plan_and_Check_E
 
 ## Follow the slides
 
-### 2. A planning exercise
+### 2. Draft an itinerary for the exercise
 
-Ask AI for a research process and a draft plan.  
-This exercise includes no bookings, purchases or sending.  
-  
-Decide what you will check at each stage  
-before proceeding.
+Ask AI to suggest steps and draft an itinerary. Decide which requirements you will check as you go. Stop when the itinerary is ready. Leave bookings, purchases and trip messages out of the exercise.
 
-### 3. A task with several stages
+### 3. Plan in stages and check as you go
 
 Plan
 
@@ -33,10 +29,9 @@ and permitted sources.
 
 Check along the way
 
-Revise any part  
-that fails a condition.
+Check each requirement and adjust the plan as needed.
 
-### 4. A half-day itinerary for five students
+### 4. Plan a half-day outing for five students
 
 Leave Kyoto Station at 13:00; finish by 17:30.  
 Travel on foot and by public transport.  
@@ -47,7 +42,7 @@ Use the supplied fictional facility information.
 
 Travel times, fares and facilities are fictional teaching data. They are not a real travel guide.
 
-### 5. 1. Asking for the process first
+### 5. 1. Ask AI to suggest an approach
 
 Copy this prompt, then add the specified source material:
 
@@ -60,7 +55,7 @@ Before completing the itinerary, ask about unclear conditions.
 
 Supply both the conditions and offline_itinerary_data.md.
 
-### 6. Conditions in the fictional source
+### 6. Requirements from the practice materials
 
 | Place | Available times | Stay requirement |
 | --- | --- | --- |
@@ -70,7 +65,7 @@ Supply both the conditions and offline_itinerary_data.md.
 
 Use the source table for each journey's travel time and fare.
 
-### 7. 2. An itinerary based on the source
+### 7. 2. Plan an itinerary from the sources
 
 Copy this prompt, then add the specified source material:
 
@@ -83,7 +78,7 @@ that we return by 17:30.
 
 Keep invented shortcuts, fares and opening hours out of the plan.
 
-### 8. Checking an example yourself
+### 8. Check the time and cost in the example
 
 13:00
 
@@ -107,7 +102,7 @@ Return to Kyoto Station
 
 Example based on the fictional travel table. Transport costs JPY 920 per person.
 
-### 9. One condition at a time
+### 9. Check one requirement at a time
 
 Condition
 
@@ -131,7 +126,7 @@ Rest area C for 30 min
 
 Read and verify the table yourself, even if AI says all conditions are met.
 
-### 10. 3. Revising a changed condition
+### 10. 3. Check how a change affects the plan
 
 Copy this prompt, then add the specified source material:
 
@@ -142,9 +137,9 @@ Update only the affected times.
 Check the transport cost and finish time again.
 ```
 
-Check for yourself what changed and what stayed the same.
+Check how the new requirement affects the schedule and cost.
 
-### 11. Additional checks for a real outing
+### 11. From a practice itinerary to a real outing
 
 The basic class task
 
@@ -158,7 +153,7 @@ Choose the travel date.
 Check transport and opening times.  
 A person decides bookings and payments.
 
-### 12. Explaining what you delegated
+### 12. Review the work you delegated to AI
 
 I checked the sequence before proceeding.
 
@@ -168,7 +163,7 @@ I used only information in the supplied sources.
 
 I made no bookings or purchases and sent nothing.
 
-### 13. Your work and your checks
+### 13. Save your work and your checks
 
 week13/
 
@@ -181,29 +176,39 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 14. Submitting the saved version
+### 14. Save your README edit
 
-01
+1. Open your own private repository and select `week13/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 15. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 16. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 13.
+### 17. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week13/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 13** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 15. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
+
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 18. Before you submit
 
 I kept the original itinerary and the revised one.
 

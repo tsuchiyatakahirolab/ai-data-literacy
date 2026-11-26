@@ -7,6 +7,6 @@ English: open [the English edition](en/README.md), then follow [initial setup](e
 
 日本語：[教材の案内](README.md)、[初回準備](docs/setup_handson_step_by_step.md)、[授業への合わせ方](docs/instructor_adaptation.md)をご覧ください。
 
-The core course in each edition has 16 editable PPTX decks with teaching notes, 16 slide-only PDFs, and one combined PDF (268 pages in Japanese and 250 pages in English). PDFs omit notes. Copy prompts from the handouts or PPTX. Practice data is fictional. Supply course-specific accounts, forms, deadlines, and instructor usernames before using the material with a class.
+The core course in each edition has 16 editable PPTX decks with teaching notes, 16 slide-only PDFs, and one combined PDF (268 pages in Japanese and 295 pages in English). PDFs omit notes. Copy prompts from the handouts or PPTX. Practice data is fictional. Supply course-specific accounts, forms, deadlines, and instructor usernames before using the material with a class.
 
 The GitHub supplement has 18 pages per language: one cover, 15 action steps, and two self-check pages. See [Japanese practice](github/README.md) / [English practice](en/github/README.md). Three narrated videos and an ordered student self-check sheet are included.

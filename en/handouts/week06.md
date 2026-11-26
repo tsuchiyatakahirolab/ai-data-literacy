@@ -1,4 +1,4 @@
-# A notice readers can act on
+# Write a notice a new reader can act on
 
 Read this sheet alongside the [English slides](../slides/Week06_Create_Notice_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
@@ -10,33 +10,26 @@ Read this sheet alongside the [English slides](../slides/Week06_Create_Notice_EN
 
 ## Follow the slides
 
-### 2. Your reader: a new student
+### 2. Picture a new student reading your notice
 
-They have asked questions in an AI chat.  
-They have not checked sources  
-or saved a record on GitHub.  
-  
-Explain the first action they should take.
+Your reader has asked AI questions before. They are new to checking sources and saving work. Explain what they should do first.
 
 ### 3. Three things your notice needs
 
-AI use is allowed
+Use AI
 
-Ask for explanations.  
-Organize information.  
-Draft a text.
+Ask for explanations. Organize ideas. Draft a text.
 
-Check the result
+Check results
 
 Check AI's output  
 before submitting it.
 
 Keep a short record
 
-Save what you delegated  
-and checked on GitHub.
+Record what AI did and what you checked.
 
-### 4. 1. Asking for a draft
+### 4. 1. Ask AI for a draft
 
 Copy this prompt, then add the specified source material:
 
@@ -49,7 +42,7 @@ and that they keep a short AI-use record on GitHub.
 
 Paste the supplied brief below. Ask AI to use only supplied course URLs and facts.
 
-### 5. Writing actions a reader can follow
+### 5. Write instructions your reader can follow
 
 Abstract instructions
 
@@ -63,7 +56,7 @@ If AI's answer has a number,
 find it in the original source.  
 Record where you checked it.
 
-### 6. 2. Editing the draft yourself
+### 6. 2. Edit the draft yourself
 
 01
 
@@ -83,17 +76,13 @@ Read it from your reader's perspective.
 
 Will they know what to open and what to check?
 
-### 7. A one-page guide
+### 7. Put the notice on one page
 
-Use one heading.  
-Put the required actions in order.  
-Shorten the text if the letters get too small.  
-  
-Use your usual document or slide software.
+Choose one title and list the actions in order. If the text looks too small, shorten it. Use a document or slide editor you know.
 
 A text-only submission is fine. A separate design-tool account is unnecessary.
 
-### 8. An optional illustration with a purpose
+### 8. Choose what an optional image should show
 
 Copy this prompt, then add the specified source material:
 
@@ -106,11 +95,11 @@ Leave space for the notice text.
 
 Image generation is optional. Text and simple shapes are enough.
 
-### 9. Checking an illustration
+### 9. Check the image for clarity
 
 01
 
-Check that it supports the notice's meaning.
+Check how the image supports the notice.
 
 Does it help readers understand the required action?
 
@@ -124,9 +113,9 @@ Look for spelling errors, unwanted logos and misleading details.
 
 Request a correction only where needed.
 
-Add a description so the meaning is available to people who cannot see it.
+Write a description that conveys what the image shows.
 
-### 10. A 30-second reader check
+### 10. Ask another student to read the notice
 
 Did the reader understand the purpose of the notice?
 
@@ -134,7 +123,7 @@ Did they understand the first action to take?
 
 Did they understand what to record?
 
-Did they identify one unfamiliar word?
+Did they point out a word they did not know?
 
 If no other reader is available, take a break and read it again yourself.
 
@@ -153,29 +142,39 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 12. Submitting the saved version
+### 12. Save your README edit
 
-01
+1. Open your own private repository and select `week06/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 13. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 14. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 06.
+### 15. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week06/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 06** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 13. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
+
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 16. Before you submit
 
 I created a 300-500 character notice or a one-page guide.
 

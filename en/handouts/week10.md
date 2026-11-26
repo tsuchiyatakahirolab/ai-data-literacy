@@ -1,4 +1,4 @@
-# A large increase? Check the axis first.
+# Check a chart's axes and values
 
 Read this sheet alongside the [English slides](../slides/Week10_Read_Charts_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
@@ -12,7 +12,7 @@ Read this sheet alongside the [English slides](../slides/Week10_Read_Charts_EN.p
 
 ## Follow the slides
 
-### 2. Two displays of the same data
+### 2. The same data can look different
 
 Vertical axis starts at 0
 
@@ -82,7 +82,7 @@ Vertical axis starts at 3.0
 
 Fictional teaching data. Only the axis range differs; the values are identical.
 
-### 3. The original values
+### 3. The data behind the charts
 
 Year
 
@@ -110,24 +110,22 @@ reported_confidence
 
 chart_claim_data.csv. The meaning of the scale and measurement method require more information.
 
-### 4. Reading a chart in order
+### 4. Three checks when reading a chart
 
-What is measured?
+Measure
 
 Read the label, unit  
 and time period.
 
 How is it displayed?
 
-Check axis endpoints  
-and tick marks.
+Check where the vertical axis starts and ends, and read the ticks.
 
-What are the values?
+Actual change
 
-Calculate the difference  
-and compare your impression.
+Find the difference. Compare it with what you first saw.
 
-### 5. 1. Asking AI to explain the charts
+### 5. 1. Ask AI to compare the charts
 
 Copy this prompt, then add the specified source material:
 
@@ -148,13 +146,11 @@ From 3.1 in 2022 to 3.5 in 2026
 Show the actual difference before describing a sharp rise.  
 Also check the scale and survey method.
 
-### 7. Changing an axis can be appropriate
+### 7. Why the vertical axis range matters
 
 Starting at zero
 
-Shows the size relative to zero.  
-Check carefully when comparing  
-the lengths of bars.
+Start the vertical axis at zero when comparing bar lengths.
 
 Showing a narrower range
 
@@ -162,7 +158,7 @@ Makes small changes easier to see.
 Differences also look larger.  
 State the axis range clearly.
 
-### 8. What the chart leaves out
+### 8. What the chart alone cannot show
 
 How many people were surveyed, and how?  
 Were measurement conditions the same each year?  
@@ -170,7 +166,7 @@ Were measurement conditions the same each year?
 If the chart does not show this information,  
 record that it cannot establish these details.
 
-### 9. 2. An explanation without exaggeration
+### 9. 2. Write an explanation based on the numbers
 
 Copy this prompt, then add the specified source material:
 
@@ -181,11 +177,11 @@ In the second, state what this source cannot establish.
 Avoid speculation about the cause.
 ```
 
-Check the values, period and axis ranges yourself.
+Check the values, period and axis ranges against the source.
 
-### 10. The visual impression and the data
+### 10. Separate your impression from the numbers
 
-An unsupported explanation
+Unsupported claim
 
 It surged in 2026.  
 The spread of AI probably  
@@ -207,7 +203,7 @@ I stated the actual difference of 0.4.
 
 I recorded missing information about the scale or survey.
 
-### 12. Your work and your checks
+### 12. Save your work and your checks
 
 week10/
 
@@ -220,29 +216,39 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 13. Submitting the saved version
+### 13. Save your README edit
 
-01
+1. Open your own private repository and select `week10/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 14. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 15. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 10.
+### 16. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week10/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 10** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 14. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
+
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 17. Before you submit
 
 I compared the chart with the source data.
 

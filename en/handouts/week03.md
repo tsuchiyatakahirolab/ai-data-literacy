@@ -1,4 +1,4 @@
-# Can you explain what you changed?
+# Check the version you saved on GitHub
 
 If GitHub operations are difficult, use the [guided practice](github_hands_on.md) and [short videos](../../videos/github/README.md) first.
 
@@ -14,24 +14,21 @@ Read this sheet alongside the [English slides](../slides/Week03_GitHub_Workflow_
 
 ## Follow the slides
 
-### 2. Connecting three operations
+### 2. Edit, compare, and submit
 
 Edit
 
-Add a short text  
-and revise it.
+Add a short entry and save it.
 
 Compare
 
-Compare the text  
-before and after.
+Compare the edits in the diff.
 
 Identify the version
 
-Submit its  
-commit URL.
+Check the version. Submit its URL.
 
-### 3. Git and GitHub
+### 3. How Git and GitHub work together
 
 Git
 
@@ -44,7 +41,7 @@ Hosts files managed with Git.
 You can also edit them  
 in a browser.
 
-### 4. One file, different versions
+### 4. One file, several saved versions
 
 First version
 
@@ -55,39 +52,20 @@ Revised version
 Add information  
 checked against a source
 
-Submitted version
+Version to submit
 
 Read it again and  
 choose the version to submit
 
 A change history alone does not prove accuracy or who did the work.
 
-### 5. Your own week03 folder
+### 5. Open week03 in your repository
 
-ai-learning / week03 / README.md
+Open your own private repository and check that the owner in the URL is your GitHub username. Select week03, then open README.md. The breadcrumb shows which folder you are in.
 
-Check your own account name
+![Example from the public English template. Work in your own repository.](../../assets/github-handson/en-week-week03-folder.png)
 
-week03 → README.md
-
-Pencil edit button
-
-Diagram of the controls to use
-
-1
-
-Open your own repository  
-for your work.
-
-2
-
-Open week03.
-
-3
-
-Edit README.md.
-
-### 6. Writing a short learning record
+### 6. 1. Write a short learning record
 
 Enter this in the README
 
@@ -97,33 +75,13 @@ I followed up on the part I did not understand.
 
 This is an editing example. Replace it with what you actually did.
 
-### 7. Your first commit
+### 7. Save your first edit
 
-Commit changes
+Use Preview to check the display. Select Commit changes, write a short message about the edit, and confirm the save. Check that your new text appears when you return to the file.
 
-Message: Add a learning record
+![GitHub Docs example showing Preview and Commit changes.](../../assets/setup/screens/edit-readme-preview-changes.png)
 
-Check your changes
-
-Commit changes
-
-Diagram of the controls to use
-
-1
-
-Check the display  
-in Preview.
-
-2
-
-Write a short commit message.
-
-3
-
-Select Commit changes  
-to save.
-
-### 8. Adding your own check
+### 8. 2. Add what you checked
 
 Enter this in the README
 
@@ -134,7 +92,7 @@ Write what you actually checked yourself.
 
 Keep the first text and add a record of your check.
 
-### 9. Checking added lines in the diff
+### 9. Read the added lines in the diff
 
 Existing text
 
@@ -146,36 +104,15 @@ I followed up on the unclear part.
 I checked its meaning in the course material.  
 It matched AI's explanation.
 
-Read the text and the + markers. Color alone is insufficient.
+Added lines in the example are green and marked with +. Read the text of those lines.
 
-### 10. Opening the second commit
+### 10. Check the second commit
 
-GitHub / Commits
+Add what you checked to README.md and save again. Open that commit from Commits. Compare the text you added with the lines marked with +. A diff shows what changed in that commit.
 
-Add what I checked
+![Public English template example showing a file diff.](../../assets/github-handson/en-week-commit-detail.png)
 
-Changed file: README.md
-
-Check the added lines
-
-Diagram of the controls to use
-
-1
-
-Commit the new  
-changes again.
-
-2
-
-Open the history  
-and select the commit.
-
-3
-
-Check the lines  
-you added.
-
-### 11. The commit URL identifies your version
+### 11. Repository URLs and commit URLs
 
 Repository URL
 
@@ -191,9 +128,9 @@ github.com/your-username/ai-learning
   
 Identifies this commit's version.
 
-These are examples. Copy the displayed URL rather than typing a commit hash.
+These examples show the format. Copy the whole URL from your browser.
 
-### 12. All the files in your submitted version
+### 12. Check the files in the version you will submit
 
 01
 
@@ -215,37 +152,13 @@ Check that this version contains every required file.
 
 A file may be in this version even when it does not appear in the latest diff.
 
-### 13. Adding a practice file
+### 13. Add a practice file
 
-ai-learning / week03 / Upload files
+Download the supplied practice.txt. In your own week03 folder, select Add file, then Upload files. Choose practice.txt and select Commit changes. Check that practice.txt appears in the folder and opens from the README link.
 
-Add file → Upload files
+![GitHub Docs example showing where to find Upload files.](../../assets/setup/screens/upload-files-button.png)
 
-Select practice.txt
-
-Write a message and commit
-
-Diagram of the controls to use
-
-1
-
-Save the supplied  
-practice.txt  
-on your computer.
-
-2
-
-In week03,  
-open Upload files.
-
-3
-
-Choose the file  
-and commit the change.
-
-After uploading, check the file list to confirm that the file is in week03.
-
-### 14. Linking a file from your README
+### 14. Add a file link to your README
 
 Enter this in the README
 
@@ -257,14 +170,11 @@ Check the link in Preview. After committing, open the file using the link.
 
 Images and PDFs work the same way. Match the filename and folder.
 
-### 15. Saving and submitting in a browser
+### 15. Save and submit in the browser
 
 Edit in the browser
 
-Edit, then commit.  
-  
-Changes save on GitHub.  
-A separate push is unnecessary.
+Edit the file. Commit it on GitHub.
 
 Submit
 
@@ -273,7 +183,7 @@ Use the latest commit URL.
 Choose the assignment's week  
 and submit the course form.
 
-### 16. Saving files and a record in the browser
+### 16. Where to save your image and record
 
 01
 
@@ -295,7 +205,7 @@ Check Preview and save with Commit changes.
 
 Initial setup uses setup. This week's assignment belongs in your own week03.
 
-### 17. Submitting your latest commit
+### 17. Check the commit you will submit
 
 01
 
@@ -315,25 +225,21 @@ Copy the displayed commit URL.
 
 Submit the weekly form with the course's specified account.
 
-Initial registration: repository URL. Weekly submission: latest commit URL.
+Use the repository URL for initial registration and the commit URL for weekly work.
 
-### 18. Common problems
+### 18. Common problems and fixes
 
-Wrong repository
+Wrong repo
 
-Check your own username  
-and ai-learning.
+Check the owner. Open ai-learning.
 
 File not visible
 
-Check your repository  
-after the commit  
-has saved.
+After saving, open your repo and check the file.
 
 Instructor cannot open it
 
-Check the pending invitation  
-and URL, then await the check.
+Check the invitee and whether the invite is pending.
 
 ### 19. Your work and your checks
 
@@ -348,29 +254,39 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 20. Submitting the saved version
+### 20. Save your README edit
 
-01
+1. Open your own private repository and select `week03/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 21. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 22. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 03.
+### 23. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week03/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 03** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 21. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
+
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 24. Before you submit
 
 I can explain the difference before and after editing.
 

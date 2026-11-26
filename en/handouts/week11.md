@@ -1,4 +1,4 @@
-# What do you check when you receive data?
+# Summarize a CSV and check the results
 
 Read this sheet alongside the [English slides](../slides/Week11_AI_Data_Analysis_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
@@ -12,43 +12,31 @@ Read this sheet alongside the [English slides](../slides/Week11_AI_Data_Analysis
 
 ## Follow the slides
 
-### 2. No coding required today
+### 2. Verify AI's summary with a spreadsheet
 
-Give AI the supplied CSV and ask it  
-to calculate summaries.  
-  
-Check the calculations against the source  
-or with a spreadsheet as well.  
-AI's output alone is insufficient evidence.
+Give AI the supplied CSV and ask it to summarize the data. Check the results against the source or with a spreadsheet. Compare AI's answer with your own calculation.
 
-### 3. Your analysis sequence
+### 3. Inspect, summarize and verify the data
 
 Inspect
 
-Check rows, columns  
-and missing values.
+Check the rows, columns and blanks.
 
 Summarize
 
-Show group means  
-in a table and chart.
+Calculate counts and means. Show them in a table or chart.
 
 Verify
 
-Check a calculation.  
-State the limits of the result.
+Check a result another way. Describe what the data supports.
 
-### 4. Fictional data, not student records
+### 4. 60 rows of fictional data
 
-This data was created for teaching.  
-  
-60 rows and 6 columns: group, AI-use time,  
-self-ratings before and after, source checking  
-and submission on time.
+This practice data has 60 rows and 6 columns. It contains group, AI-use time, self-ratings before and after, source checking and on-time submission.
 
 Use en/assets/week11/ai_study_data.csv and data_dictionary.md.
 
-### 5. 1. Giving AI the CSV
+### 5. 1. Attach the CSV to your AI prompt
 
 01
 
@@ -68,7 +56,7 @@ If attachments are unavailable, use the alternative method.
 
 Summarize it in a spreadsheet, then ask AI to explain your results.
 
-### 6. 2. Checking rows and columns
+### 6. 2. Check the rows and columns
 
 Copy this prompt, then add the specified source material:
 
@@ -81,7 +69,7 @@ Exclude the header row from the data row count.
 
 Open the data dictionary and compare it with AI's explanation.
 
-### 7. Column names and their definitions
+### 7. Read the data dictionary
 
 Column
 
@@ -91,8 +79,7 @@ student_group
 
 Groups A, B and C
 
-confidence_before /  
-after
+confidence_before confidence_after
 
 Self-ratings before and after
 
@@ -106,7 +93,7 @@ Submitted on time: yes / no
 
 A self-rating is not a measure of academic ability. Read the definitions in the data dictionary.
 
-### 8. 3. A summary for each group
+### 8. 3. Summarize the data by group
 
 Copy this prompt, then add the specified source material:
 
@@ -118,7 +105,7 @@ State the columns used and how you handled missing values.
 
 Check the group counts as well as the means.
 
-### 9. Comparing with the reference values
+### 9. Compare with the reference values
 
 | Group | Count | Mean after |
 | --- | --- | --- |
@@ -128,7 +115,7 @@ Check the group counts as well as the means.
 
 Calculated from the supplied 60 fictional rows. Means are rounded to two decimal places.
 
-### 10. One check using another method
+### 10. Verify a calculation another way
 
 Rows with source_checked = yes: 42
 
@@ -137,7 +124,7 @@ Rows with source_checked = yes: 42
 Count yes rows with a spreadsheet filter, for example.  
 Record your method and whether the result matches AI's.
 
-### 11. 4. A bar chart
+### 11. 4. Make a bar chart
 
 Copy this prompt, then add the specified source material:
 
@@ -178,7 +165,7 @@ C: 21 people
 
 Fictional teaching data. Mean self-ratings after use, by group.
 
-### 13. Observed differences and their causes
+### 13. Separate differences from causes
 
 What the table shows
 
@@ -192,7 +179,7 @@ AI improved A's
 academic ability.  
 It works for every student.
 
-### 14. 5. A short explanation of the result
+### 14. 5. Explain the results and their limits
 
 01
 
@@ -208,11 +195,11 @@ Give the means, counts and calculation you verified.
 
 03
 
-Describe what remains unknown.
+Explain what the data cannot show.
 
 This fictional data cannot test an effect on real students.
 
-### 15. Your work and your checks
+### 15. Save your work and your checks
 
 week11/
 
@@ -227,29 +214,39 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 16. Submitting the saved version
+### 16. Save your README edit
 
-01
+1. Open your own private repository and select `week11/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 17. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 18. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 11.
+### 19. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week11/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 11** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 17. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
+
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 20. Before you submit
 
 I checked the row count, columns and missing values.
 

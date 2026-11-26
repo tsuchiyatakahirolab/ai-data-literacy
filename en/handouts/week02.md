@@ -1,4 +1,4 @@
-# How should you ask for the same task?
+# Give AI the details it needs
 
 Read this sheet alongside the [English slides](../slides/Week02_Clear_Requests_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
@@ -10,7 +10,7 @@ Read this sheet alongside the [English slides](../slides/Week02_Clear_Requests_E
 
 ## Follow the slides
 
-### 2. Comparing two requests
+### 2. Compare two requests
 
 01
 
@@ -28,9 +28,9 @@ State the audience, source material and required output.
 
 Compare the results.
 
-Record which conditions are met and what is still missing.
+Record what each version gets right and what it omits.
 
-### 3. An event notice for participants
+### 3. Write a notice for a fictional event
 
 Fictional event for this exercise  
   
@@ -41,7 +41,7 @@ Bring: Laptop and university account
 
 Source: en/assets/week04/sample_event_notice.md (fictional)
 
-### 4. 1. A short request
+### 4. 1. Send a short request
 
 Copy this prompt, then add the specified source material:
 
@@ -51,21 +51,17 @@ Write a notice for a university AI workshop.
 
 Check whether AI invented the date, location or fee.
 
-### 5. Details AI may not know
+### 5. Details AI needs from you
 
 Missing from the request
 
-Who should read it?  
-When and where is it?  
-What should they bring?
+Intended readers Date, time and venue What to bring
 
 Material to add
 
-The audience is new students.  
-Use the supplied information.  
-Aim for about 180 characters.
+A notice for new students Facts from the handout About 180 characters
 
-### 6. 2. A source and clear conditions
+### 6. 2. Add a source and the conditions
 
 Copy this prompt, then add the specified source material:
 
@@ -78,26 +74,23 @@ Add no information absent from the source.
 
 Paste the supplied source text after this request.
 
-### 7. Conditions that matter for this task
+### 7. Choose the conditions the task needs
 
 Purpose
 
-Who is the text for?  
-What should it communicate?
+What should readers learn?
 
 Source
 
-Which material should AI use?  
-Which facts must stay fixed?
+Source materials Facts to preserve
 
 Output
 
-Length, required details  
-and completion criteria.
+Length Required details When to stop
 
-Choose the conditions your task needs. A long fixed prompt template is unnecessary.
+Choose the conditions your task needs.
 
-### 8. Comparing the same items
+### 8. Check the same details in both responses
 
 | Item to check | Short request | With conditions |
 | --- | --- | --- |
@@ -105,9 +98,9 @@ Choose the conditions your task needs. A long fixed prompt template is unnecessa
 | Items to bring included? | Fill in yourself | Fill in yourself |
 | Any invented information? | Fill in yourself | Fill in yourself |
 
-Record what worked as well. There is no need to manufacture a bad result.
+Record which requirements each response met. Keep a correct result as it is.
 
-### 9. A focused correction
+### 9. Fix the part that needs work
 
 Copy this prompt, then add the specified source material:
 
@@ -117,9 +110,9 @@ Add university account to the items to bring.
 Keep all other information unchanged.
 ```
 
-If the first result meets the conditions, additional attempts are unnecessary.
+If your answer meets the conditions, you can stop.
 
-### 10. Useful material in your request
+### 10. Give AI useful source material
 
 Hard to evaluate
 
@@ -132,9 +125,9 @@ For new students, 180 characters.
 Include date, venue and items.  
 Use only the source information.
 
-### 11. Choosing a result
+### 11. Choose the response to use
 
-The date matches the supplied source.
+The date and time match the supplied source.
 
 All required details are present.
 
@@ -155,31 +148,41 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 13. Submitting the saved version
+### 13. Save your README edit
 
-01
+1. Open your own private repository and select `week02/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 14. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 15. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 02.
+### 16. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week02/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 02** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 14. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
 
-I showed both requests and the differences in their results.
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 17. Before you submit
+
+I showed both prompts and how their results differed.
 
 I recorded which details I checked against the source.
 

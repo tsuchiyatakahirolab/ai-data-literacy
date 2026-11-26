@@ -15,6 +15,6 @@ Save your artifact and short AI-use record in your Private repository. Commit al
 
 The weekly URL has the form `https://github.com/username/repository/commit/abcdef123456...`. A repository or profile URL does not identify the submitted version. After a correction, submit the new commit URL; normally the latest submission is used under the course policy.
 
-Browser commits are already saved on GitHub and require no separate push. With GitHub Desktop, save locally, inspect the changes, commit, select Push origin, and check the website. A commit page mainly shows differences; use Browse files to inspect all files at that commit. History alone does not prove authorship or correctness.
+Confirm Commit changes in the browser and check that the edited file opens. On the Code tab, choose Commits and select the message for the version you saved. Use Browse files to inspect all files at that commit. Return to the commit details to copy the full URL. Use the evidence and your own checks to support the work shown in the commit.
 
 Keep personal information, confidential materials, unrelated private conversations, and other students' submissions out of the repository. For a public portfolio, consult your instructor and prepare a separate set containing only publishable material.

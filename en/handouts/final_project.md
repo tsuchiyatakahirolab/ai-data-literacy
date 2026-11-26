@@ -1,4 +1,4 @@
-# Checked evidence, your own finished work
+# Check your evidence and finish your project
 
 Read this sheet alongside the [English slides](../slides/Final_Project_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
@@ -6,16 +6,11 @@ Read this sheet alongside the [English slides](../slides/Final_Project_EN.pptx).
 
 ## Follow the slides
 
-### 2. Completing one question
+### 2. Create a project that answers one question
 
-Use sources to answer the question from Week 14.  
-Record what you delegated to AI and checked yourself.  
-  
-Marks depend on the connection between  
-the question, evidence and finished work.  
-An expensive tool is unnecessary.
+Use sources to answer the question from Week 14. Record what you delegated to AI and what you checked yourself. Your work is assessed on how well the answer and supporting evidence fit the question.
 
-### 3. Three possible approaches
+### 3. Three ways to approach the final project
 
 A: Document reading
 
@@ -23,17 +18,17 @@ Explain the document's
 content for your  
 intended reader.
 
-B: Source checking
+B: Check sources
 
 Compare sources and  
 report what you verified.
 
-C: Data analysis
+C: Analyze data
 
 Verify the summary.  
 Explain results and limits.
 
-### 4. A format that suits your explanation
+### 4. Choose a format that suits your work
 
 An 800-1,200 character explanation, or  
 a one-page guide, table or chart with equivalent content.  
@@ -43,7 +38,7 @@ and what they cannot establish.
 
 Check your course page for the deadline, language-specific length and submission form.
 
-### 5. Three checks before completion
+### 5. What to check before finishing
 
 01
 
@@ -63,7 +58,7 @@ Can a new reader understand it?
 
 Check the connection between terms, figures and sources.
 
-### 6. Your work and its evidence log
+### 6. Match your claims to your evidence
 
 | Claim or number | Supporting source | Your own check |
 | --- | --- | --- |
@@ -71,19 +66,15 @@ Check the connection between terms, figures and sources.
 | A mismatch found | Sources compared | What you corrected |
 | Unverified content | Source still needed | Decision to leave it unasserted |
 
-### 7. A short AI-use record
+### 7. What to include in your AI-use record
 
 Unnecessary to submit
 
-Chat sharing links.  
-Full conversations.  
-Proof of a paid plan.
+Chat share links Full conversations Proof of a paid plan
 
 What to record
 
-AI used and purpose.  
-Tasks delegated to AI.  
-Your own checks and revisions.
+AI tools and how you used them Tasks you delegated to AI What you checked and revised
 
 ### 8. Four assessment criteria
 
@@ -95,7 +86,7 @@ Your own checks and revisions.
 
 Marks do not depend on memorization, service names, paid plans or prompt length.
 
-### 9. Saving everything in final
+### 9. Save your work in the final folder
 
 final/
 
@@ -108,34 +99,43 @@ evidence_log.md: evidence record
 
 Your README record
 
-The evidence log can also  
-be in the README.  
-Link to images and CSVs  
-so readers can open them.
+You can put the evidence log in a table in your README. Use relative links for images and CSV files.
 
-### 10. The final-project submission
+### 10. Save your README edit
 
-01
+1. Open your own private repository and select `final/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit all files in final.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-If using Desktop, push the commit as well.
+### 11. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open your finished work at that commit.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that figures, images and evidence log are present.
+### 12. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the final-project form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account to submit the commit URL.
+### 13. Check the files and copy the commit URL
 
-The Week 14 submission does not replace the final-project submission.
+1. Select **Browse files** and check the expected work under `final/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the final-project form and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 11. Opening the actual files before submitting
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
+
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+Submit the final project separately from Week 14.
+
+### 14. Checks before you submit
 
 The question, answer and evidence log correspond.
 
@@ -143,15 +143,11 @@ I checked numbers, dates and names.
 
 I included no personal details or private documents.
 
-I opened the submitted commit and checked all files.
+I opened the commit I plan to submit and checked all files.
 
-### 12. Explaining your own decisions
+### 15. Explain your own decisions
 
-Which work did you delegate to AI?  
-What did you check in its output?  
-What did you keep, and what did you revise?  
-  
-Make these decisions clear in your finished work.
+Which work did you delegate to AI? What did you check in its output? What did you keep, and what did you revise? Show these decisions in your finished work and records.
 
 ## Save and submit
 

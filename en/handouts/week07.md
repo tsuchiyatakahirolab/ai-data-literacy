@@ -1,4 +1,4 @@
-# Does the source support the answer?
+# Check AI's answer against its sources
 
 Read this sheet alongside the [English slides](../slides/Week07_Check_Sources_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
@@ -10,7 +10,7 @@ Read this sheet alongside the [English slides](../slides/Week07_Check_Sources_EN
 
 ## Follow the slides
 
-### 2. Where did the information come from?
+### 2. Where AI gets its information
 
 Model training
 
@@ -22,7 +22,7 @@ Connected data
 
 The same chat interface can use different sources of information.
 
-### 3. Checking two pieces of information
+### 3. Check two claims against their sources
 
 01
 
@@ -38,11 +38,11 @@ Search the web yourself if needed.
 
 03
 
-Open the original pages and compare.
+Open each source and check the answer.
 
 Record the publisher, date and supporting passage.
 
-### 4. Practice topic: GitHub registration
+### 4. Practice topic for GitHub email settings
 
 Question 1: How do you verify  
 a registered email address?  
@@ -52,7 +52,7 @@ email to an existing account?
 
 Product details change. Record the official page and the date you checked it.
 
-### 5. 1. Asking AI to find information
+### 5. 1. Ask AI to find official sources
 
 Copy this prompt, then add the specified source material:
 
@@ -65,27 +65,13 @@ that supports your answer.
 
 Without AI web search, find official pages yourself and give AI the relevant text.
 
-### 6. 2. Opening the sources
+### 6. Read the relevant part of the source
 
-01
+Open GitHub Docs and check that the page heading matches your question. Read the steps that support the answer. Record the page URL and the date you checked it, and point to the relevant paragraph or step.
 
-Actually open the links in the answer.
+![Screenshot of GitHub Docs. For this exercise, read the instructions.](../../assets/github-handson/en-week-email-addition.png)
 
-A page title alone is not a completed check.
-
-02
-
-Check who published the page.
-
-Distinguish official GitHub Docs from someone's personal explanation.
-
-03
-
-Find the passage supporting the answer.
-
-Use page search and read the surrounding explanation.
-
-### 7. A URL and supporting evidence
+### 7. Read the source behind the link
 
 Still unchecked
 
@@ -99,7 +85,7 @@ I read the relevant paragraph.
 The email addition steps  
 matched AI's explanation.
 
-### 8. Four items in your source record
+### 8. Four details to record about a source
 
 Item
 
@@ -115,21 +101,17 @@ Page URL and publishing organization
 
 Date
 
-Date checked and update date, if known
+Date you checked and date updated, if available
 
 Comparison result
 
 Match, mismatch or unable to verify
 
-### 9. When a source cannot be read
+### 9. If you cannot open a source
 
-A broken link, restricted access or mismatched content.  
-  
-Find another official source, or record  
-that this source did not let you verify the claim.  
-Keep unverified URLs out of your evidence.
+If a page is missing or restricted, look for another official source. If you cannot verify the claim, record why. Only cite URLs you have checked.
 
-### 10. 3. Correcting a mismatch with evidence
+### 10. 3. Use evidence to correct a mismatch
 
 Copy this prompt, then add the specified source material:
 
@@ -142,15 +124,15 @@ confirms from what remains unknown.
 
 Paste only the relevant source passage after this request.
 
-### 11. Conclusions for both questions
+### 11. Record your findings for both questions
 
-I actually opened at least two source pages.
+I opened at least two source pages.
 
 I connected each claim to the passage supporting it.
 
 I recorded the date I checked.
 
-I reported mismatches and anything still unverified.
+I reported any mismatch or open question.
 
 ### 12. Your work and your checks
 
@@ -165,35 +147,45 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 13. Submitting the saved version
+### 13. Save your README edit
 
-01
+1. Open your own private repository and select `week07/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 14. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 15. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 07.
+### 16. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week07/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 07** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 14. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
+
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 17. Before you submit
 
 I checked two pieces of information on the original pages.
 
 I recorded check results as well as URLs.
 
-If search was unavailable, I recorded my alternative method.
+I recorded another way to check when search was unavailable.
 
 I submitted the commit URL containing my work.
 

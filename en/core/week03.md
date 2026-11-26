@@ -64,7 +64,7 @@ Suggested commit message: `week03-submission`
 
 ## Version 1.1 teaching update
 
-Basic account setup now takes place in the opening session so that Weeks 1–2 can also be submitted through GitHub. In Week 3, students edit a README, compare versions, and submit the final commit URL. Browser editing is the core route; GitHub Desktop is an optional extension.
+Basic account setup now takes place in the opening session so that Weeks 1–2 can also be submitted through GitHub. In Week 3, students edit a README, compare versions, and submit the final commit URL. Use the browser for the editing and submission steps in this exercise.
 
 AI assistance is optional for this GitHub practice. If you do not use AI, write “not used” and record the changes and checks you performed yourself.
 

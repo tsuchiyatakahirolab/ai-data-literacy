@@ -1,4 +1,4 @@
-# Does clearer wording change the meaning?
+# Keep the meaning when you rewrite or translate
 
 Read this sheet alongside the [English slides](../slides/Week05_Rewrite_Translate_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
@@ -10,7 +10,7 @@ Read this sheet alongside the [English slides](../slides/Week05_Rewrite_Translat
 
 ## Follow the slides
 
-### 2. One text, different readers
+### 2. Adapt the same text for different readers
 
 01
 
@@ -26,11 +26,11 @@ Write for new students, then translate into a language you can check.
 
 03
 
-Compare with the original meaning.
+Check both versions against the original.
 
 Check omissions, overstatements and changes in obligations.
 
-### 3. Three ideas in the source
+### 3. Three ideas in the original text
 
 Generative AI can help organize information,  
 write text and understand documents.  
@@ -41,7 +41,7 @@ Check the final content yourself.
 
 Display summary of en/assets/week05/rewrite_source.md. Use the supplied full source for the task.
 
-### 4. What needs to remain
+### 4. What to keep in each version
 
 Uses
 
@@ -51,13 +51,11 @@ and understanding text.
 
 Limitations
 
-Output may contain errors  
-or lack supporting evidence.
+Check for errors and weak evidence.
 
-Required actions
+What to do
 
-Record your AI use.  
-Check the content yourself.
+Record your AI use. Check the content.
 
 ### 5. 1. Rewriting for new students
 
@@ -72,7 +70,7 @@ and the need to record use and check the result.
 
 Paste the full rewrite_source.md text after the request.
 
-### 6. Keeping required actions required
+### 6. Keep required actions clear
 
 Meaning preserved
 
@@ -86,7 +84,7 @@ Check only the parts
 that concern you.  
 Keeping a record is optional.
 
-### 7. 2. Translating for another audience
+### 7. 2. Translate for another audience
 
 Copy this prompt, then add the specified source material:
 
@@ -99,7 +97,7 @@ Do not make them optional.
 
 Check all three source ideas. Use a target language you can verify, or record the limitation.
 
-### 8. The strength of an obligation
+### 8. Required and optional actions in translation
 
 Matches the source
 
@@ -109,14 +107,11 @@ before submitting it.
 
 Weaker meaning
 
-You may keep a record  
-if you find it useful.  
-  
-A requirement became optional.
+You may keep a record if you find it useful. This makes it optional.
 
 Teaching examples for comparison. These are not recorded outputs from a particular AI.
 
-### 9. Checking a translation
+### 9. Compare your translation with the original
 
 01
 
@@ -136,7 +131,7 @@ Record anything you could not verify.
 
 An AI back-translation alone cannot establish accuracy.
 
-### 10. A three-row comparison record
+### 10. Record the comparison in three rows
 
 | Source idea | Rewritten version | Check result |
 | --- | --- | --- |
@@ -157,29 +152,39 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 12. Submitting the saved version
+### 12. Save your README edit
 
-01
+1. Open your own private repository and select `week05/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 13. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 14. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 05.
+### 15. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week05/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 05** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 13. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
+
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 16. Before you submit
 
 I made two versions from the same source.
 

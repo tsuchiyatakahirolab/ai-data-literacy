@@ -1,4 +1,4 @@
-# Does the evidence really support that?
+# Spot unsupported claims and bias
 
 Read this sheet alongside the [English slides](../slides/Week08_Errors_and_Bias_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
@@ -10,7 +10,7 @@ Read this sheet alongside the [English slides](../slides/Week08_Errors_and_Bias_
 
 ## Follow the slides
 
-### 2. Questioning a sample text
+### 2. Review a sample text
 
 University students always get higher grades with AI.  
 AI is more accurate than humans and can give  
@@ -21,7 +21,7 @@ and have poor data literacy.
 
 Fictional text with deliberate problems for this exercise. It is not a recorded AI response.
 
-### 3. Three ways to examine a claim
+### 3. Check evidence, scope, and assumptions
 
 Evidence
 
@@ -30,16 +30,14 @@ for the word always?
 
 Scope
 
-Does a result for one task  
-justify a claim about  
-every assignment?
+Does one result support a claim about every assignment?
 
 Stereotypes
 
 Does the text ignore  
 reasons for not using AI?
 
-### 4. 1. Your own first check
+### 4. 1. Flag phrases and explain why
 
 01
 
@@ -59,7 +57,7 @@ Give AI the text and your reasons.
 
 Compare AI's observations with your own.
 
-### 5. 2. Asking AI to examine the text
+### 5. 2. Compare AI's observations with yours
 
 Copy this prompt, then add the specified source material:
 
@@ -70,9 +68,9 @@ about students in this text.
 Show the original phrases that cause the problem.
 ```
 
-Look for the exact phrase and reason, rather than a general verdict that the text is wrong.
+Look for the exact phrase and the reason it was flagged.
 
-### 6. More than removing always
+### 6. Revise the claim to fit the evidence
 
 Only weaker wording
 
@@ -88,7 +86,7 @@ on the task and how it is used.
 
 This is an illustrative rewrite for the exercise, rather than an empirical finding.
 
-### 7. Reasons for not using AI
+### 7. Consider why some students may not use AI
 
 A stereotype
 
@@ -103,7 +101,7 @@ Concern about sharing information.
 
 Not using AI alone does not establish a student's ability or motivation.
 
-### 8. Matching problems and revisions
+### 8. Match each problem to a revision
 
 | Original phrase | Problem | Revision approach |
 | --- | --- | --- |
@@ -111,7 +109,7 @@ Not using AI alone does not establish a student's ability or motivation.
 | Every assignment | Overgeneralization | Limit the scope |
 | Behind the times | Stereotyping students | Remove; consider other reasons |
 
-### 9. 3. Revising to fit the evidence
+### 9. 3. Rewrite the claims to fit the evidence
 
 Copy this prompt, then add the specified source material:
 
@@ -123,7 +121,7 @@ Add no invented studies or statistics.
 
 Check that the revision introduces no new unsupported assertions.
 
-### 10. Keeping parts that need no change
+### 10. Check your revised text
 
 Each identified phrase has a corresponding reason.
 
@@ -131,7 +129,7 @@ Relevant conditions are stated.
 
 I assessed AI's suggestions before accepting them.
 
-I added no unsupported statistics or study names.
+I left out numbers and study names I could not verify.
 
 ### 11. Your work and your checks
 
@@ -146,35 +144,45 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 12. Submitting the saved version
+### 12. Save your README edit
 
-01
+1. Open your own private repository and select `week08/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 13. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 14. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 08.
+### 15. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week08/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 08** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 13. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
+
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 16. Before you submit
 
 I identified the exact problems in the original.
 
 I explained my reasons for revising them.
 
-I treated the text as a teaching example, not a recorded AI response.
+I treated the sample as a fictional classroom example.
 
 I submitted the commit URL containing my work.
 

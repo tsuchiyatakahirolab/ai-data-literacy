@@ -1,4 +1,4 @@
-# What percentage of which people?
+# Check the denominator in a percentage
 
 Read this sheet alongside the [English slides](../slides/Week09_Read_Numbers_EN.pptx). Work in your own private repository. The instructor supplies course-specific accounts, submission links, and deadlines.
 
@@ -22,7 +22,7 @@ Read this sheet alongside the [English slides](../slides/Week09_Read_Numbers_EN.
 
 Fictional teaching data from numbers_exercise.csv. These are not real student records.
 
-### 3. 1. Asking AI to calculate submission rates
+### 3. 1. Ask AI to calculate submission rates
 
 Copy this prompt, then add the specified source material:
 
@@ -35,18 +35,17 @@ Show the numerator, denominator and formula.
 
 If you cannot attach the CSV, paste the four-row table.
 
-### 4. Group A: a calculator check
+### 4. Check Group A's submission rate
 
 28 submitted / 32 students
 
 28 ÷ 32 × 100 = 87.5％
 
-Compare AI's formula and answer with your calculator.  
-A matching result is also a check worth recording.
+Compare AI's formula and answer with your calculator. Record how you checked, even if the results match.
 
-### 5. The same 18 people, different denominators
+### 5. Different denominators give different rates
 
-All students as denominator
+All students
 
 18 source checkers / 32 students  
   
@@ -66,10 +65,9 @@ Submitted: 28 + 24 + 31 + 20 = 103 people
 
 103 ÷ 126 × 100 ≈ 81.7％
 
-Students: 32 + 30 + 35 + 29 = 126 people  
-Calculate from totals rather than averaging the group percentages.
+Students: 32 + 30 + 35 + 29 = 126 Divide the total submitted by the total number of students.
 
-### 7. Results by group
+### 7. Submission rates by group
 
 | Group | Numerator / denominator | Submission rate |
 | --- | --- | --- |
@@ -80,21 +78,17 @@ Calculate from totals rather than averaging the group percentages.
 
 Round to one decimal place. Recalculating from rounded values can introduce rounding error.
 
-### 8. Percentage points and relative increase
+### 8. 15 percentage points vs. a 25% increase
 
 Difference in percentages
 
-From 60% to 75%.  
-  
-75 - 60 = 15 percentage points.
+From 60% to 75%. 75 − 60 = 15 points.
 
 Relative increase
 
-The same change: 60% to 75%.  
-  
-(75 - 60) / 60 = 25% increase.
+Use the starting value of 60%. (75 − 60) ÷ 60 = 25% increase.
 
-State what changed and which starting value you used.
+Report the difference in percentage points and the increase relative to the starting value.
 
 ### 9. 2. Checking calculations and explanations
 
@@ -116,7 +110,7 @@ Read AI's explanation.
 
 Make clear which people and which proportion the result describes.
 
-### 10. 3. Explaining what a number means
+### 10. 3. Write what the denominator means
 
 Copy this prompt, then add the specified source material:
 
@@ -127,9 +121,9 @@ the numerator and denominator.
 Avoid speculation about causes.
 ```
 
-The table alone cannot explain the submission rate or establish AI's effect.
+This table shows rates. It does not establish causes.
 
-### 11. The scope of your explanation
+### 11. Check what the data supports
 
 I distinguished counts from percentages.
 
@@ -139,7 +133,7 @@ I used consistent rounding.
 
 I avoided inferring a cause from these numbers alone.
 
-### 12. Your work and your checks
+### 12. Save your work and your checks
 
 week09/
 
@@ -152,35 +146,45 @@ What I delegated to AI
 What I checked myself  
 What I could not verify
 
-### 13. Submitting the saved version
+### 13. Save your README edit
 
-01
+1. Open your own private repository and select `week09/README.md`. Check the owner in the address bar.
+2. Select the pencil icon. Add your work and a short record of what you checked.
+3. Select **Commit changes** and confirm in the dialog. Check that your edited text appears when the file opens again.
 
-Commit your changes on GitHub.
+![Pencil icon in GitHub Docs](../../assets/setup/screens/edit-file-edit-button.png)
 
-Check the updated files and commit them.
+### 14. Open the commit history
 
-02
+Open the **Code** tab in your repository. Above the file list, choose the clock icon and **Commits**. Look for a page headed **Commits**.
 
-Open that commit's page.
+![The Commits link on the public English course template](../../assets/github-handson/en-week-history-entry.png)
 
-Check that the URL contains /commit/.
+### 15. Choose the commit to submit
 
-03
+Find the change you saved and select its message. Check the date and the changes. The detail page shows **Commit** followed by a short identifier.
 
-Submit the course form.
+![Commit messages in the public English course template](../../assets/github-handson/en-week-commit-list.png)
 
-Use the specified course account and choose Week 09.
+### 16. Check the files and copy the commit URL
 
-A browser commit saves to GitHub. A separate push is unnecessary.
+1. Select **Browse files** and check the expected work under `week09/`.
+2. Return to the commit detail page.
+3. Select the full address with **Ctrl+L** on Windows or **Command+L** on Mac. Copy it with **Ctrl+C** or **Command+C**.
+4. Check that the address includes `/commit/` and your own GitHub username.
+5. In class, submit the full address through the course form under **Week 09** and check the confirmation page. For self-study, keep the address in your practice log.
 
-### 14. Before you submit
+![Browse files on a commit detail page in the public English course template](../../assets/github-handson/en-week-commit-detail.png)
+
+Use the repository URL for initial registration and the full commit URL for an assignment. Work in your own repository while following the screen examples.
+
+### 17. Before you submit
 
 I calculated one group and the overall rate myself.
 
 I stated the denominator explicitly.
 
-I identified the data as fictional teaching data.
+I clearly labeled the data as fictional.
 
 I submitted the commit URL containing my work.
 
