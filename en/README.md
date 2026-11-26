@@ -1,3 +1,5 @@
+[日本語](../README.md) · **English**
+
 <a href="https://tsuchiyatakahiro.com"><img src="../assets/branding/personal-author-logo.png" width="180" alt="TSUCHIYA TAKAHIRO"></a>
 
 For GitHub support, use the independent [GitHub Hands-on Practice](github/README.md) and ordered [student self-check](handouts/github_self_check.md).

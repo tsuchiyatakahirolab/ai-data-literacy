@@ -1,3 +1,5 @@
+[日本語](README.md) · **English**
+
 <a href="https://tsuchiyatakahiro.com"><img src="assets/branding/personal-author-logo.png" width="180" alt="TSUCHIYA TAKAHIRO"></a>
 
 Use the independent [GitHub Hands-on Practice](en/github/README.md), including a cover, videos, and an ordered [student self-check](en/handouts/github_self_check.md).
@@ -7,7 +9,7 @@ Use the independent [GitHub Hands-on Practice](en/github/README.md), including a
 
 Independent readers can start with the [self-study guide](en/docs/self_study.md). No university account or course-form submission is required.
 
-[Japanese README](README.md)
+[Browse the English teaching materials](en/README.md).
 
 This open course provides **14 hands-on classes plus a final project** for university students with little or no prior experience using generative AI, GitHub, or data analysis. It moves beyond the idea of AI as a chat box for answering questions. Students use AI to read documents, research the web, interpret images, check numbers and charts, analyze a small CSV dataset, create artifacts, and manage multi-step tasks.
 

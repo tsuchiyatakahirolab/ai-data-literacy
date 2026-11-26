@@ -1,3 +1,5 @@
+**日本語** · [English](README_EN.md)
+
 <a href="https://tsuchiyatakahiro.com"><img src="assets/branding/personal-author-logo.png" width="180" alt="TSUCHIYA TAKAHIRO"></a>
 
 GitHubで迷った学生には、独立した[GitHub操作補習教材](github/README.md)を案内できます。表紙付きスライド・PDF、説明動画、手順付きの[学生用自己確認](handouts/github_self_check.md)を公開しています。
@@ -8,7 +10,7 @@ GitHubで迷った学生には、独立した[GitHub操作補習教材](github/R
 学外から来た方は、[独習の案内](docs/self_study.md)から始められます。大学アカウントや授業フォームへの登録は不要です。
 
 **AI and Data Literacy for University Students**  
-[English README](README_EN.md)
+14 hands-on classes and a final project. [Browse the English teaching materials](en/README.md).
 
 この教材は、生成AIをほとんど使ったことがない大学生を対象にした、14回＋最終課題の演習型教材です。学生は、AIを「質問すると答えを返すチャット」だけでなく、資料を読む、画像を見る、Webで調べる、数字とグラフを確認する、簡単なデータを分析する、成果物を作る、複数手順の作業を進めるための道具として扱います。
 
